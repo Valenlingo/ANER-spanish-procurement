@@ -1,0 +1,6765 @@
+{
+  "annotation_sha256": "5d0196d2eaebcc9b4d8178b61a288eb86f6114c9e2bec2c04f9f28c829ada989",
+  "purpose": "Frozen text-family grouping; contains no train/evaluation/test assignments.",
+  "method": "Normalized duplicates, exact fragment containment, near templates, reviewed line continuations and award lists.",
+  "thresholds": {
+    "contained_fragment_min_characters": 60,
+    "near_min_characters": 40,
+    "near_min_length_ratio": 0.8,
+    "near_min_word_jaccard": 0.65,
+    "near_min_character_similarity": 0.88
+  },
+  "groups": [
+    [
+      0,
+      678
+    ],
+    [
+      1,
+      16,
+      48,
+      56,
+      64,
+      77,
+      101,
+      118,
+      130,
+      149,
+      159,
+      166,
+      196,
+      212,
+      225,
+      239,
+      252,
+      267,
+      280,
+      288,
+      297,
+      314,
+      341,
+      348,
+      364,
+      411,
+      423,
+      463,
+      472,
+      488,
+      515,
+      524,
+      543,
+      559,
+      597,
+      610,
+      614,
+      621,
+      638,
+      668,
+      685,
+      697,
+      708,
+      723,
+      748,
+      756,
+      774,
+      782,
+      789,
+      799,
+      805,
+      829,
+      849,
+      857,
+      867,
+      878,
+      887,
+      906,
+      919,
+      951,
+      958,
+      965,
+      988,
+      994,
+      1010,
+      1020,
+      1026,
+      1046,
+      1063,
+      1073,
+      1084,
+      1104,
+      1120,
+      1130,
+      1145,
+      1164
+    ],
+    [
+      2,
+      15,
+      128,
+      151,
+      169,
+      197,
+      214,
+      235,
+      255,
+      286,
+      316,
+      337,
+      365,
+      409,
+      424,
+      462,
+      468,
+      492,
+      514,
+      545,
+      560,
+      637,
+      666,
+      682,
+      706,
+      722,
+      790,
+      809,
+      828,
+      870,
+      885,
+      907,
+      922,
+      950,
+      967,
+      1009,
+      1042,
+      1061,
+      1070,
+      1131,
+      1161
+    ],
+    [
+      3,
+      18,
+      28,
+      55,
+      106,
+      129,
+      148,
+      170,
+      194,
+      207,
+      237,
+      257,
+      269,
+      278,
+      285,
+      315,
+      336,
+      367,
+      408,
+      422,
+      459,
+      469,
+      491,
+      513,
+      534,
+      550,
+      562,
+      596,
+      620,
+      641,
+      667,
+      681,
+      696,
+      726,
+      749,
+      773,
+      788,
+      807,
+      830,
+      850,
+      858,
+      866,
+      886,
+      905,
+      921,
+      952,
+      959,
+      966,
+      1006,
+      1041,
+      1062,
+      1072,
+      1083,
+      1105,
+      1112,
+      1128,
+      1146,
+      1159
+    ],
+    [
+      4,
+      20,
+      133,
+      146,
+      167,
+      193,
+      213,
+      238,
+      258,
+      287,
+      317,
+      339,
+      368,
+      407,
+      426,
+      460,
+      471,
+      489,
+      549,
+      561,
+      639,
+      665,
+      683,
+      705,
+      724,
+      792,
+      806,
+      832,
+      869,
+      882,
+      909,
+      920,
+      949,
+      968,
+      1007,
+      1044,
+      1060,
+      1071,
+      1129,
+      1160
+    ],
+    [
+      5,
+      19,
+      126,
+      210,
+      254,
+      279,
+      370,
+      470,
+      547,
+      948,
+      1111
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8,
+      49,
+      57,
+      60,
+      103,
+      155,
+      162,
+      205,
+      222,
+      274,
+      293,
+      351,
+      494,
+      676,
+      690,
+      712,
+      783,
+      925,
+      1038,
+      1076,
+      1093,
+      1094,
+      1097,
+      1141
+    ],
+    [
+      9,
+      123,
+      206,
+      536
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      11,
+      13,
+      125
+    ],
+    [
+      14,
+      131,
+      152,
+      165,
+      209,
+      240,
+      256,
+      318,
+      342,
+      369,
+      544,
+      640,
+      707,
+      791,
+      834,
+      883,
+      924,
+      1045,
+      1162
+    ],
+    [
+      17,
+      132,
+      153,
+      211,
+      340,
+      516,
+      546,
+      636,
+      664,
+      833
+    ],
+    [
+      21,
+      54,
+      127,
+      147,
+      168,
+      195,
+      208,
+      236,
+      253,
+      268,
+      284,
+      338,
+      366,
+      410,
+      425,
+      461,
+      490,
+      517,
+      548,
+      595,
+      635,
+      669,
+      684,
+      725,
+      787,
+      808,
+      831,
+      868,
+      884,
+      908,
+      923,
+      964,
+      1008,
+      1043,
+      1059,
+      1074,
+      1113,
+      1163
+    ],
+    [
+      22,
+      215
+    ],
+    [
+      23,
+      135,
+      216
+    ],
+    [
+      24,
+      136,
+      217
+    ],
+    [
+      25
+    ],
+    [
+      26
+    ],
+    [
+      27
+    ],
+    [
+      29
+    ],
+    [
+      30
+    ],
+    [
+      31
+    ],
+    [
+      32
+    ],
+    [
+      33
+    ],
+    [
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      163,
+      600,
+      917,
+      939,
+      1054
+    ],
+    [
+      42,
+      43,
+      44,
+      45,
+      86,
+      87,
+      88,
+      89,
+      1055
+    ],
+    [
+      46,
+      47,
+      82,
+      1057
+    ],
+    [
+      50
+    ],
+    [
+      51,
+      52,
+      53
+    ],
+    [
+      58
+    ],
+    [
+      59,
+      120
+    ],
+    [
+      61,
+      779,
+      780
+    ],
+    [
+      62,
+      63
+    ],
+    [
+      65,
+      84,
+      172,
+      283,
+      375,
+      377,
+      380,
+      383,
+      387,
+      388,
+      432,
+      518,
+      554,
+      616,
+      717,
+      757,
+      777,
+      794,
+      810,
+      852,
+      859,
+      880,
+      914,
+      943,
+      960,
+      995,
+      1108
+    ],
+    [
+      66
+    ],
+    [
+      67,
+      72
+    ],
+    [
+      68,
+      71
+    ],
+    [
+      69,
+      70,
+      1018
+    ],
+    [
+      73
+    ],
+    [
+      74,
+      993
+    ],
+    [
+      75
+    ],
+    [
+      76
+    ],
+    [
+      78
+    ],
+    [
+      79
+    ],
+    [
+      80
+    ],
+    [
+      81
+    ],
+    [
+      83
+    ],
+    [
+      85
+    ],
+    [
+      99,
+      100
+    ],
+    [
+      102
+    ],
+    [
+      104
+    ],
+    [
+      105,
+      617,
+      1098,
+      1099,
+      1100
+    ],
+    [
+      107
+    ],
+    [
+      108
+    ],
+    [
+      109
+    ],
+    [
+      110
+    ],
+    [
+      111,
+      527,
+      733,
+      871,
+      992,
+      1017
+    ],
+    [
+      112
+    ],
+    [
+      113
+    ],
+    [
+      114
+    ],
+    [
+      115
+    ],
+    [
+      116,
+      117
+    ],
+    [
+      119
+    ],
+    [
+      121
+    ],
+    [
+      122,
+      1090,
+      1107
+    ],
+    [
+      124
+    ],
+    [
+      134
+    ],
+    [
+      137
+    ],
+    [
+      138
+    ],
+    [
+      139
+    ],
+    [
+      140
+    ],
+    [
+      141
+    ],
+    [
+      142
+    ],
+    [
+      143
+    ],
+    [
+      144
+    ],
+    [
+      145,
+      277,
+      300,
+      301,
+      302,
+      303,
+      304,
+      305,
+      306,
+      307,
+      308,
+      309,
+      310,
+      313,
+      601,
+      770,
+      772,
+      904,
+      918,
+      940
+    ],
+    [
+      150,
+      642
+    ],
+    [
+      154
+    ],
+    [
+      156
+    ],
+    [
+      157
+    ],
+    [
+      158
+    ],
+    [
+      160
+    ],
+    [
+      161
+    ],
+    [
+      164
+    ],
+    [
+      171
+    ],
+    [
+      173
+    ],
+    [
+      174
+    ],
+    [
+      175
+    ],
+    [
+      176
+    ],
+    [
+      177
+    ],
+    [
+      178,
+      189
+    ],
+    [
+      179
+    ],
+    [
+      180
+    ],
+    [
+      181
+    ],
+    [
+      182
+    ],
+    [
+      183
+    ],
+    [
+      184
+    ],
+    [
+      185
+    ],
+    [
+      186
+    ],
+    [
+      187
+    ],
+    [
+      188
+    ],
+    [
+      190
+    ],
+    [
+      191
+    ],
+    [
+      192
+    ],
+    [
+      198
+    ],
+    [
+      199
+    ],
+    [
+      200
+    ],
+    [
+      201
+    ],
+    [
+      202
+    ],
+    [
+      203
+    ],
+    [
+      204
+    ],
+    [
+      218
+    ],
+    [
+      219
+    ],
+    [
+      220
+    ],
+    [
+      221
+    ],
+    [
+      223,
+      224
+    ],
+    [
+      226
+    ],
+    [
+      227
+    ],
+    [
+      228
+    ],
+    [
+      229
+    ],
+    [
+      230
+    ],
+    [
+      231
+    ],
+    [
+      232
+    ],
+    [
+      233,
+      234
+    ],
+    [
+      241,
+      242,
+      243
+    ],
+    [
+      244
+    ],
+    [
+      245
+    ],
+    [
+      246
+    ],
+    [
+      247,
+      273,
+      352,
+      895
+    ],
+    [
+      248
+    ],
+    [
+      249,
+      250,
+      251,
+      259,
+      260
+    ],
+    [
+      261
+    ],
+    [
+      262
+    ],
+    [
+      263
+    ],
+    [
+      264
+    ],
+    [
+      265
+    ],
+    [
+      266
+    ],
+    [
+      270
+    ],
+    [
+      271
+    ],
+    [
+      272
+    ],
+    [
+      275
+    ],
+    [
+      276
+    ],
+    [
+      281
+    ],
+    [
+      282
+    ],
+    [
+      289
+    ],
+    [
+      290
+    ],
+    [
+      291
+    ],
+    [
+      292
+    ],
+    [
+      294
+    ],
+    [
+      295,
+      296
+    ],
+    [
+      298
+    ],
+    [
+      299
+    ],
+    [
+      311,
+      312
+    ],
+    [
+      319,
+      320,
+      321
+    ],
+    [
+      322,
+      323
+    ],
+    [
+      324
+    ],
+    [
+      325
+    ],
+    [
+      326
+    ],
+    [
+      327
+    ],
+    [
+      328
+    ],
+    [
+      329
+    ],
+    [
+      330
+    ],
+    [
+      331
+    ],
+    [
+      332
+    ],
+    [
+      333,
+      335
+    ],
+    [
+      334
+    ],
+    [
+      343
+    ],
+    [
+      344
+    ],
+    [
+      345
+    ],
+    [
+      346
+    ],
+    [
+      347
+    ],
+    [
+      349
+    ],
+    [
+      350
+    ],
+    [
+      353
+    ],
+    [
+      354
+    ],
+    [
+      355
+    ],
+    [
+      356
+    ],
+    [
+      357
+    ],
+    [
+      358,
+      359
+    ],
+    [
+      360
+    ],
+    [
+      361
+    ],
+    [
+      362
+    ],
+    [
+      363
+    ],
+    [
+      371
+    ],
+    [
+      372
+    ],
+    [
+      373,
+      374,
+      376,
+      378,
+      379,
+      381,
+      382,
+      384,
+      385,
+      386,
+      389,
+      390
+    ],
+    [
+      391,
+      392,
+      393
+    ],
+    [
+      394,
+      395,
+      396
+    ],
+    [
+      397
+    ],
+    [
+      398,
+      399
+    ],
+    [
+      400,
+      401,
+      402,
+      403
+    ],
+    [
+      404,
+      405,
+      406
+    ],
+    [
+      412
+    ],
+    [
+      413
+    ],
+    [
+      414
+    ],
+    [
+      415
+    ],
+    [
+      416
+    ],
+    [
+      417
+    ],
+    [
+      418
+    ],
+    [
+      419,
+      420
+    ],
+    [
+      421
+    ],
+    [
+      427
+    ],
+    [
+      428
+    ],
+    [
+      429
+    ],
+    [
+      430
+    ],
+    [
+      431
+    ],
+    [
+      433,
+      436,
+      438,
+      439,
+      441,
+      443,
+      445,
+      448,
+      450,
+      451,
+      453,
+      455
+    ],
+    [
+      434,
+      435,
+      437,
+      440,
+      442,
+      444,
+      446,
+      447,
+      449,
+      452,
+      454,
+      456
+    ],
+    [
+      457
+    ],
+    [
+      458
+    ],
+    [
+      464,
+      556
+    ],
+    [
+      465
+    ],
+    [
+      466
+    ],
+    [
+      467
+    ],
+    [
+      473
+    ],
+    [
+      474
+    ],
+    [
+      475
+    ],
+    [
+      476
+    ],
+    [
+      477
+    ],
+    [
+      478
+    ],
+    [
+      479
+    ],
+    [
+      480
+    ],
+    [
+      481
+    ],
+    [
+      482
+    ],
+    [
+      483
+    ],
+    [
+      484,
+      574
+    ],
+    [
+      485
+    ],
+    [
+      486,
+      487
+    ],
+    [
+      493
+    ],
+    [
+      495
+    ],
+    [
+      496
+    ],
+    [
+      497
+    ],
+    [
+      498,
+      499,
+      501,
+      502,
+      503,
+      504,
+      508,
+      509,
+      510
+    ],
+    [
+      500
+    ],
+    [
+      505,
+      506,
+      507
+    ],
+    [
+      511,
+      512
+    ],
+    [
+      519,
+      520,
+      797
+    ],
+    [
+      521
+    ],
+    [
+      522,
+      523,
+      1109
+    ],
+    [
+      525
+    ],
+    [
+      526
+    ],
+    [
+      528
+    ],
+    [
+      529
+    ],
+    [
+      530
+    ],
+    [
+      531
+    ],
+    [
+      532
+    ],
+    [
+      533
+    ],
+    [
+      535
+    ],
+    [
+      537
+    ],
+    [
+      538
+    ],
+    [
+      539,
+      541,
+      542
+    ],
+    [
+      540
+    ],
+    [
+      551
+    ],
+    [
+      552
+    ],
+    [
+      553
+    ],
+    [
+      555
+    ],
+    [
+      557
+    ],
+    [
+      558
+    ],
+    [
+      563
+    ],
+    [
+      564
+    ],
+    [
+      565
+    ],
+    [
+      566
+    ],
+    [
+      567
+    ],
+    [
+      568
+    ],
+    [
+      569
+    ],
+    [
+      570
+    ],
+    [
+      571
+    ],
+    [
+      572
+    ],
+    [
+      573
+    ],
+    [
+      575
+    ],
+    [
+      576
+    ],
+    [
+      577,
+      580,
+      582,
+      584
+    ],
+    [
+      578
+    ],
+    [
+      579
+    ],
+    [
+      581
+    ],
+    [
+      583
+    ],
+    [
+      585
+    ],
+    [
+      586
+    ],
+    [
+      587
+    ],
+    [
+      588
+    ],
+    [
+      589,
+      590
+    ],
+    [
+      591,
+      592,
+      593,
+      594
+    ],
+    [
+      598
+    ],
+    [
+      599
+    ],
+    [
+      602
+    ],
+    [
+      603,
+      604,
+      605
+    ],
+    [
+      606
+    ],
+    [
+      607
+    ],
+    [
+      608
+    ],
+    [
+      609
+    ],
+    [
+      611
+    ],
+    [
+      612
+    ],
+    [
+      613
+    ],
+    [
+      615
+    ],
+    [
+      618
+    ],
+    [
+      619
+    ],
+    [
+      622
+    ],
+    [
+      623
+    ],
+    [
+      624
+    ],
+    [
+      625
+    ],
+    [
+      626,
+      627
+    ],
+    [
+      628
+    ],
+    [
+      629
+    ],
+    [
+      630,
+      631
+    ],
+    [
+      632
+    ],
+    [
+      633,
+      634
+    ],
+    [
+      643
+    ],
+    [
+      644
+    ],
+    [
+      645,
+      648
+    ],
+    [
+      646
+    ],
+    [
+      647
+    ],
+    [
+      649
+    ],
+    [
+      650,
+      651,
+      654,
+      655,
+      656
+    ],
+    [
+      652,
+      653
+    ],
+    [
+      657
+    ],
+    [
+      658
+    ],
+    [
+      659
+    ],
+    [
+      660
+    ],
+    [
+      661
+    ],
+    [
+      662,
+      663
+    ],
+    [
+      670
+    ],
+    [
+      671
+    ],
+    [
+      672
+    ],
+    [
+      673,
+      674,
+      675
+    ],
+    [
+      677
+    ],
+    [
+      679
+    ],
+    [
+      680
+    ],
+    [
+      686
+    ],
+    [
+      687
+    ],
+    [
+      688
+    ],
+    [
+      689
+    ],
+    [
+      691
+    ],
+    [
+      692
+    ],
+    [
+      693
+    ],
+    [
+      694
+    ],
+    [
+      695
+    ],
+    [
+      698,
+      1050,
+      1116
+    ],
+    [
+      699
+    ],
+    [
+      700
+    ],
+    [
+      701
+    ],
+    [
+      702
+    ],
+    [
+      703
+    ],
+    [
+      704
+    ],
+    [
+      709
+    ],
+    [
+      710
+    ],
+    [
+      711
+    ],
+    [
+      713
+    ],
+    [
+      714
+    ],
+    [
+      715
+    ],
+    [
+      716
+    ],
+    [
+      718
+    ],
+    [
+      719
+    ],
+    [
+      720
+    ],
+    [
+      721
+    ],
+    [
+      727
+    ],
+    [
+      728
+    ],
+    [
+      729
+    ],
+    [
+      730
+    ],
+    [
+      731
+    ],
+    [
+      732
+    ],
+    [
+      734
+    ],
+    [
+      735
+    ],
+    [
+      736
+    ],
+    [
+      737
+    ],
+    [
+      738,
+      745
+    ],
+    [
+      739
+    ],
+    [
+      740
+    ],
+    [
+      741
+    ],
+    [
+      742
+    ],
+    [
+      743
+    ],
+    [
+      744
+    ],
+    [
+      746
+    ],
+    [
+      747
+    ],
+    [
+      750
+    ],
+    [
+      751
+    ],
+    [
+      752
+    ],
+    [
+      753
+    ],
+    [
+      754,
+      755
+    ],
+    [
+      758
+    ],
+    [
+      759
+    ],
+    [
+      760
+    ],
+    [
+      761
+    ],
+    [
+      762
+    ],
+    [
+      763
+    ],
+    [
+      764
+    ],
+    [
+      765
+    ],
+    [
+      766,
+      767,
+      768,
+      769
+    ],
+    [
+      771
+    ],
+    [
+      775
+    ],
+    [
+      776
+    ],
+    [
+      778
+    ],
+    [
+      781
+    ],
+    [
+      784
+    ],
+    [
+      785
+    ],
+    [
+      786
+    ],
+    [
+      793
+    ],
+    [
+      795
+    ],
+    [
+      796
+    ],
+    [
+      798
+    ],
+    [
+      800
+    ],
+    [
+      801
+    ],
+    [
+      802
+    ],
+    [
+      803,
+      804
+    ],
+    [
+      811
+    ],
+    [
+      812
+    ],
+    [
+      813
+    ],
+    [
+      814
+    ],
+    [
+      815,
+      822
+    ],
+    [
+      816
+    ],
+    [
+      817
+    ],
+    [
+      818
+    ],
+    [
+      819
+    ],
+    [
+      820
+    ],
+    [
+      821
+    ],
+    [
+      823
+    ],
+    [
+      824
+    ],
+    [
+      825
+    ],
+    [
+      826,
+      827
+    ],
+    [
+      835
+    ],
+    [
+      836
+    ],
+    [
+      837
+    ],
+    [
+      838
+    ],
+    [
+      839
+    ],
+    [
+      840
+    ],
+    [
+      841,
+      842
+    ],
+    [
+      843
+    ],
+    [
+      844
+    ],
+    [
+      845
+    ],
+    [
+      846
+    ],
+    [
+      847,
+      848
+    ],
+    [
+      851
+    ],
+    [
+      853
+    ],
+    [
+      854
+    ],
+    [
+      855,
+      856,
+      865,
+      956,
+      957,
+      1085,
+      1086
+    ],
+    [
+      860
+    ],
+    [
+      861
+    ],
+    [
+      862
+    ],
+    [
+      863
+    ],
+    [
+      864
+    ],
+    [
+      872
+    ],
+    [
+      873,
+      1019
+    ],
+    [
+      874
+    ],
+    [
+      875
+    ],
+    [
+      876,
+      877
+    ],
+    [
+      879
+    ],
+    [
+      881
+    ],
+    [
+      888
+    ],
+    [
+      889
+    ],
+    [
+      890
+    ],
+    [
+      891
+    ],
+    [
+      892
+    ],
+    [
+      893
+    ],
+    [
+      894
+    ],
+    [
+      896
+    ],
+    [
+      897
+    ],
+    [
+      898
+    ],
+    [
+      899
+    ],
+    [
+      900
+    ],
+    [
+      901
+    ],
+    [
+      902
+    ],
+    [
+      903
+    ],
+    [
+      910
+    ],
+    [
+      911
+    ],
+    [
+      912
+    ],
+    [
+      913
+    ],
+    [
+      915
+    ],
+    [
+      916
+    ],
+    [
+      926
+    ],
+    [
+      927
+    ],
+    [
+      928
+    ],
+    [
+      929
+    ],
+    [
+      930
+    ],
+    [
+      931
+    ],
+    [
+      932
+    ],
+    [
+      933
+    ],
+    [
+      934
+    ],
+    [
+      935
+    ],
+    [
+      936
+    ],
+    [
+      937
+    ],
+    [
+      938
+    ],
+    [
+      941
+    ],
+    [
+      942
+    ],
+    [
+      944
+    ],
+    [
+      945
+    ],
+    [
+      946
+    ],
+    [
+      947
+    ],
+    [
+      953
+    ],
+    [
+      954
+    ],
+    [
+      955
+    ],
+    [
+      961
+    ],
+    [
+      962,
+      963
+    ],
+    [
+      969,
+      970
+    ],
+    [
+      971
+    ],
+    [
+      972
+    ],
+    [
+      973
+    ],
+    [
+      974,
+      975,
+      976,
+      977,
+      978,
+      979,
+      980,
+      981,
+      982,
+      983,
+      984,
+      985
+    ],
+    [
+      986
+    ],
+    [
+      987
+    ],
+    [
+      989
+    ],
+    [
+      990
+    ],
+    [
+      991
+    ],
+    [
+      996
+    ],
+    [
+      997,
+      998,
+      999,
+      1000,
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ],
+    [
+      1011
+    ],
+    [
+      1012,
+      1013,
+      1014,
+      1015,
+      1016
+    ],
+    [
+      1021
+    ],
+    [
+      1022
+    ],
+    [
+      1023
+    ],
+    [
+      1024
+    ],
+    [
+      1025
+    ],
+    [
+      1027
+    ],
+    [
+      1028
+    ],
+    [
+      1029
+    ],
+    [
+      1030
+    ],
+    [
+      1031
+    ],
+    [
+      1032
+    ],
+    [
+      1033
+    ],
+    [
+      1034
+    ],
+    [
+      1035
+    ],
+    [
+      1036
+    ],
+    [
+      1037
+    ],
+    [
+      1039,
+      1040
+    ],
+    [
+      1047
+    ],
+    [
+      1048
+    ],
+    [
+      1049
+    ],
+    [
+      1051
+    ],
+    [
+      1052
+    ],
+    [
+      1053
+    ],
+    [
+      1056,
+      1058
+    ],
+    [
+      1064
+    ],
+    [
+      1065,
+      1067
+    ],
+    [
+      1066,
+      1077
+    ],
+    [
+      1068
+    ],
+    [
+      1069
+    ],
+    [
+      1075
+    ],
+    [
+      1078
+    ],
+    [
+      1079
+    ],
+    [
+      1080
+    ],
+    [
+      1081,
+      1082
+    ],
+    [
+      1087
+    ],
+    [
+      1088
+    ],
+    [
+      1089
+    ],
+    [
+      1091
+    ],
+    [
+      1092,
+      1095,
+      1096
+    ],
+    [
+      1101
+    ],
+    [
+      1102
+    ],
+    [
+      1103
+    ],
+    [
+      1106
+    ],
+    [
+      1110
+    ],
+    [
+      1114
+    ],
+    [
+      1115
+    ],
+    [
+      1117
+    ],
+    [
+      1118
+    ],
+    [
+      1119
+    ],
+    [
+      1121
+    ],
+    [
+      1122
+    ],
+    [
+      1123
+    ],
+    [
+      1124
+    ],
+    [
+      1125
+    ],
+    [
+      1126
+    ],
+    [
+      1127
+    ],
+    [
+      1132,
+      1133,
+      1134,
+      1135,
+      1136,
+      1137,
+      1138,
+      1139
+    ],
+    [
+      1140
+    ],
+    [
+      1142
+    ],
+    [
+      1143,
+      1144
+    ],
+    [
+      1147,
+      1148,
+      1149,
+      1150,
+      1151,
+      1152,
+      1153,
+      1154
+    ],
+    [
+      1155
+    ],
+    [
+      1156
+    ],
+    [
+      1157
+    ],
+    [
+      1158
+    ]
+  ],
+  "links": [
+    {
+      "annotation_indices": [
+        12,
+        10
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        13,
+        11
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        15,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        16,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        18,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        19,
+        5
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        20,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        28,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        48,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        49,
+        8
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        52,
+        51
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        54,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        55,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        56,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        57,
+        8
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        60,
+        8
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        63,
+        62
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        64,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        70,
+        69
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        71,
+        68
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        72,
+        67
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        77,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        84,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        101,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        103,
+        8
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        106,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        118,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        120,
+        59
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        125,
+        11
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        126,
+        5
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        127,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        128,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        129,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        130,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        131,
+        14
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        132,
+        17
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        133,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        136,
+        24
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        146,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        147,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        148,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        149,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        151,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        152,
+        14
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        153,
+        17
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        155,
+        8
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        159,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        162,
+        8
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        165,
+        14
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        166,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        167,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        168,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        169,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        170,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        172,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        189,
+        178
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        193,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        194,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        195,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        196,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        197,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        205,
+        8
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        207,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        208,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        209,
+        14
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        210,
+        5
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        211,
+        17
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        212,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        213,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        214,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        215,
+        22
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        216,
+        135
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        217,
+        24
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        222,
+        8
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        224,
+        223
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        225,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        234,
+        233
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        235,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        236,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        237,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        238,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        239,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        240,
+        14
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        242,
+        241
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        243,
+        241
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        250,
+        249
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        251,
+        249
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        252,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        253,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        254,
+        5
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        255,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        256,
+        14
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        257,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        258,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        259,
+        249
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        260,
+        249
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        267,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        268,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        269,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        273,
+        247
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        274,
+        8
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        278,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        279,
+        5
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        280,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        283,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        284,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        285,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        286,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        287,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        288,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        293,
+        8
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        296,
+        295
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        297,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        313,
+        310
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        314,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        315,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        316,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        317,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        318,
+        14
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        335,
+        333
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        336,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        337,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        338,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        339,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        340,
+        17
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        341,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        342,
+        14
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        348,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        351,
+        8
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        352,
+        247
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        364,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        365,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        366,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        367,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        368,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        369,
+        14
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        370,
+        5
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        375,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        376,
+        374
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        377,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        378,
+        373
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        379,
+        374
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        380,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        381,
+        373
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        382,
+        373
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        383,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        384,
+        374
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        385,
+        373
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        386,
+        374
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        387,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        388,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        389,
+        374
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        390,
+        373
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        392,
+        391
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        393,
+        391
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        395,
+        394
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        396,
+        394
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        401,
+        400
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        402,
+        400
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        403,
+        400
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        405,
+        404
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        406,
+        404
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        407,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        408,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        409,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        410,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        411,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        422,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        423,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        424,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        425,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        426,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        432,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        435,
+        434
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        436,
+        433
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        437,
+        434
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        438,
+        433
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        439,
+        433
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        440,
+        434
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        441,
+        433
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        442,
+        434
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        443,
+        433
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        444,
+        434
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        445,
+        433
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        446,
+        434
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        447,
+        434
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        448,
+        433
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        449,
+        434
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        450,
+        433
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        451,
+        433
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        452,
+        434
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        453,
+        433
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        454,
+        434
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        455,
+        433
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        456,
+        434
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        459,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        460,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        461,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        462,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        463,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        468,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        469,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        470,
+        5
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        471,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        472,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        487,
+        486
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        488,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        489,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        490,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        491,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        492,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        494,
+        8
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        499,
+        498
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        501,
+        498
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        502,
+        498
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        503,
+        498
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        504,
+        498
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        506,
+        505
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        507,
+        505
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        508,
+        498
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        509,
+        498
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        510,
+        498
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        512,
+        511
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        513,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        514,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        515,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        516,
+        17
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        517,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        518,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        523,
+        522
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        524,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        527,
+        111
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        534,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        541,
+        539
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        543,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        544,
+        14
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        545,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        546,
+        17
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        547,
+        5
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        548,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        549,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        550,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        554,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        556,
+        464
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        559,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        560,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        561,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        562,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        590,
+        589
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        592,
+        591
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        593,
+        591
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        594,
+        591
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        595,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        596,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        597,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        610,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        614,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        616,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        617,
+        105
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        620,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        621,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        634,
+        633
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        635,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        636,
+        17
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        637,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        638,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        639,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        640,
+        14
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        641,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        642,
+        150
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        651,
+        650
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        653,
+        652
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        654,
+        650
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        655,
+        650
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        656,
+        650
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        663,
+        662
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        664,
+        17
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        665,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        666,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        667,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        668,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        669,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        674,
+        673
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        675,
+        673
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        676,
+        8
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        678,
+        0
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        681,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        682,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        683,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        684,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        685,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        690,
+        8
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        696,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        697,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        705,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        706,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        707,
+        14
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        708,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        712,
+        8
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        717,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        722,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        723,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        724,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        725,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        726,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        733,
+        111
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        745,
+        738
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        748,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        749,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        755,
+        754
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        756,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        757,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        768,
+        766
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        769,
+        767
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        773,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        774,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        777,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        779,
+        61
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        780,
+        61
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        782,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        783,
+        8
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        787,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        788,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        789,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        790,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        791,
+        14
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        792,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        794,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        797,
+        519
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        799,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        805,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        806,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        807,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        808,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        809,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        810,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        827,
+        826
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        828,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        829,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        830,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        831,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        832,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        833,
+        17
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        834,
+        14
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        842,
+        841
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        849,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        850,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        852,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        856,
+        855
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        857,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        858,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        859,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        865,
+        855
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        866,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        867,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        868,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        869,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        870,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        871,
+        111
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        877,
+        876
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        878,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        880,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        882,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        883,
+        14
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        884,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        885,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        886,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        887,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        895,
+        247
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        905,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        906,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        907,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        908,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        909,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        914,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        919,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        920,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        921,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        922,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        923,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        924,
+        14
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        925,
+        8
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        943,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        948,
+        5
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        949,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        950,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        951,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        952,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        956,
+        855
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        957,
+        855
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        958,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        959,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        960,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        963,
+        962
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        964,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        965,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        966,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        967,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        968,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        978,
+        974
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        979,
+        975
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        980,
+        976
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        981,
+        977
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        982,
+        974
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        983,
+        975
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        984,
+        976
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        985,
+        977
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        988,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        992,
+        111
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        993,
+        74
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        994,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        995,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        998,
+        997
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        999,
+        997
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1000,
+        997
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1001,
+        997
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1002,
+        997
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1003,
+        997
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1004,
+        997
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1005,
+        997
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1006,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1007,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1008,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1009,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1010,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1013,
+        1012
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1014,
+        1012
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1015,
+        1012
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1016,
+        1012
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1017,
+        111
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1018,
+        69
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1019,
+        873
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1020,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1026,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1038,
+        8
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1040,
+        1039
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1041,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1042,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1043,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1044,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1045,
+        14
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1046,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1050,
+        698
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1058,
+        1056
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1059,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1060,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1061,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1062,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1063,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1070,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1071,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1072,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1073,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1074,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1076,
+        8
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1077,
+        1066
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1082,
+        1081
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1083,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1084,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1085,
+        855
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1086,
+        855
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1090,
+        122
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1093,
+        8
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1094,
+        8
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1095,
+        1092
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1096,
+        1092
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1097,
+        8
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1098,
+        105
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1099,
+        105
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1100,
+        105
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1104,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1105,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1107,
+        122
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1108,
+        65
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1111,
+        5
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1112,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1113,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1116,
+        698
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1120,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1128,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1129,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1130,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1131,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1133,
+        1132
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1134,
+        1132
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1135,
+        1132
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1136,
+        1132
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1137,
+        1132
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1138,
+        1132
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1139,
+        1132
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1141,
+        8
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1145,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1146,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1148,
+        1147
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1149,
+        1147
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1150,
+        1147
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1151,
+        1147
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1152,
+        1147
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1153,
+        1147
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1154,
+        1147
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1159,
+        3
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1160,
+        4
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1161,
+        2
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1162,
+        14
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1163,
+        21
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        1164,
+        1
+      ],
+      "reason": "case_and_whitespace_normalized_duplicate"
+    },
+    {
+      "annotation_indices": [
+        53,
+        51
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        82,
+        46
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        94,
+        39
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.9375
+    },
+    {
+      "annotation_indices": [
+        117,
+        116
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.990476
+    },
+    {
+      "annotation_indices": [
+        123,
+        9
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.903896
+    },
+    {
+      "annotation_indices": [
+        135,
+        23
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        163,
+        37
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        163,
+        38
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        163,
+        93
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        163,
+        94
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        163,
+        95
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        206,
+        9
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.913386
+    },
+    {
+      "annotation_indices": [
+        206,
+        123
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.970443
+    },
+    {
+      "annotation_indices": [
+        307,
+        145
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        307,
+        277
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        310,
+        305
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        359,
+        358
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.984375
+    },
+    {
+      "annotation_indices": [
+        374,
+        373
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.970297
+    },
+    {
+      "annotation_indices": [
+        520,
+        519
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.996047
+    },
+    {
+      "annotation_indices": [
+        536,
+        9
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.925065
+    },
+    {
+      "annotation_indices": [
+        542,
+        539
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        574,
+        484
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.935849
+    },
+    {
+      "annotation_indices": [
+        580,
+        577
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.948207
+    },
+    {
+      "annotation_indices": [
+        582,
+        577
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.930233
+    },
+    {
+      "annotation_indices": [
+        582,
+        580
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.918919
+    },
+    {
+      "annotation_indices": [
+        584,
+        577
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.96
+    },
+    {
+      "annotation_indices": [
+        584,
+        580
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.956175
+    },
+    {
+      "annotation_indices": [
+        584,
+        582
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.945736
+    },
+    {
+      "annotation_indices": [
+        600,
+        38
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        600,
+        39
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        600,
+        93
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        600,
+        95
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        601,
+        307
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        627,
+        626
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.935897
+    },
+    {
+      "annotation_indices": [
+        631,
+        630
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.90379
+    },
+    {
+      "annotation_indices": [
+        648,
+        645
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.918519
+    },
+    {
+      "annotation_indices": [
+        770,
+        304
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        772,
+        307
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        804,
+        803
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.982456
+    },
+    {
+      "annotation_indices": [
+        822,
+        815
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        917,
+        34
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        918,
+        307
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        918,
+        904
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.942857
+    },
+    {
+      "annotation_indices": [
+        939,
+        34
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        939,
+        917
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.986207
+    },
+    {
+      "annotation_indices": [
+        940,
+        277
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.936216
+    },
+    {
+      "annotation_indices": [
+        940,
+        307
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        1054,
+        917
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.939068
+    },
+    {
+      "annotation_indices": [
+        1054,
+        939
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.949275
+    },
+    {
+      "annotation_indices": [
+        1055,
+        42
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        1055,
+        44
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        1055,
+        88
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        1057,
+        46
+      ],
+      "reason": "exact_normalized_fragment_containment"
+    },
+    {
+      "annotation_indices": [
+        1067,
+        1065
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.927152
+    },
+    {
+      "annotation_indices": [
+        1109,
+        522
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.88
+    },
+    {
+      "annotation_indices": [
+        1144,
+        1143
+      ],
+      "reason": "near_duplicate_template",
+      "similarity": 0.979798
+    },
+    {
+      "annotation_indices": [
+        34,
+        35
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        35,
+        36
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        36,
+        37
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        37,
+        38
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        38,
+        39
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        39,
+        40
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        40,
+        41
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        42,
+        43
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        43,
+        44
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        44,
+        45
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        46,
+        47
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        86,
+        87
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        87,
+        88
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        88,
+        89
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        90,
+        91
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        91,
+        92
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        92,
+        93
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        93,
+        94
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        94,
+        95
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        95,
+        96
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        96,
+        97
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        97,
+        98
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        99,
+        100
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        300,
+        301
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        301,
+        302
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        302,
+        303
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        303,
+        304
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        304,
+        305
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        306,
+        307
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        307,
+        308
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        308,
+        309
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        309,
+        310
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        311,
+        312
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        319,
+        320
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        320,
+        321
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        322,
+        323
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        398,
+        399
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        419,
+        420
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        603,
+        604
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        604,
+        605
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        766,
+        767
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        768,
+        769
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        847,
+        848
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        969,
+        970
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        974,
+        975
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        975,
+        976
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        976,
+        977
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        978,
+        979
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        979,
+        980
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        980,
+        981
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        982,
+        983
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        983,
+        984
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    },
+    {
+      "annotation_indices": [
+        984,
+        985
+      ],
+      "reason": "reviewed_continuation_or_award_list"
+    }
+  ],
+  "reviewed_source_ranges": [
+    [
+      "raw_data_sample2.txt",
+      39,
+      46
+    ],
+    [
+      "raw_data_sample2.txt",
+      47,
+      50
+    ],
+    [
+      "raw_data_sample2.txt",
+      53,
+      54
+    ],
+    [
+      "raw_data_sample2.txt",
+      94,
+      97
+    ],
+    [
+      "raw_data_sample2.txt",
+      98,
+      106
+    ],
+    [
+      "raw_data_sample2.txt",
+      107,
+      108
+    ],
+    [
+      "raw_data_sample3.txt",
+      38,
+      43
+    ],
+    [
+      "raw_data_sample3.txt",
+      44,
+      48
+    ],
+    [
+      "raw_data_sample3.txt",
+      49,
+      50
+    ],
+    [
+      "raw_data_sample3.txt",
+      57,
+      59
+    ],
+    [
+      "raw_data_sample3.txt",
+      61,
+      62
+    ],
+    [
+      "raw_data_sample3.txt",
+      137,
+      138
+    ],
+    [
+      "raw_data_sample3.txt",
+      158,
+      159
+    ],
+    [
+      "raw_data_sample3.txt",
+      350,
+      352
+    ],
+    [
+      "raw_data_sample4.txt",
+      161,
+      162
+    ],
+    [
+      "raw_data_sample4.txt",
+      163,
+      164
+    ],
+    [
+      "raw_data_sample5.txt",
+      22,
+      23
+    ],
+    [
+      "raw_data_sample5.txt",
+      144,
+      145
+    ],
+    [
+      "raw_data_sample5.txt",
+      149,
+      152
+    ],
+    [
+      "raw_data_sample5.txt",
+      153,
+      156
+    ],
+    [
+      "raw_data_sample5.txt",
+      157,
+      160
+    ]
+  ]
+}

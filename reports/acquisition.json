@@ -1,0 +1,27 @@
+{
+  "mode": "bundled_original_samples",
+  "recorded_at_utc": "2026-10-05T16:59:33.351028+00:00",
+  "new_web_scrape_performed": false,
+  "documents": [
+    {
+      "atom_file": "licitacionesPerfilesContratanteCompleto3_20250108_182854_5.atom",
+      "sample_file": "raw_data_sample2.txt",
+      "sample_sha256": "2a022f7084aa4a6f90a5f3f16d3a374aa54824b1ece81c7f6ae7660ad6b243d0"
+    },
+    {
+      "atom_file": "licitacionesPerfilesContratanteCompleto3_20250121_145342.atom",
+      "sample_file": "raw_data_sample3.txt",
+      "sample_sha256": "8259a0d3a062cc9dd11abc365adf9c0056a731c3a454794698e12fcb1e98ade1"
+    },
+    {
+      "atom_file": "licitacionesPerfilesContratanteCompleto3_20250122_141634_2.atom",
+      "sample_file": "raw_data_sample4.txt",
+      "sample_sha256": "0bc45002befc0cd29e98f27d71f563b7552d7510bd7852be0b999aac02c2f53c"
+    },
+    {
+      "atom_file": "licitacionesPerfilesContratanteCompleto3_20250128_175733_1.atom",
+      "sample_file": "raw_data_sample5.txt",
+      "sample_sha256": "47852ae4d77714f99524dc4c5ef4f8b7a39e0efeb4f53d77ac2e063db0736b6b"
+    }
+  ]
+}

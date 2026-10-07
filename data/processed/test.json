@@ -1,0 +1,5537 @@
+{
+  "classes": [
+    "ORG",
+    "PER",
+    "LOC",
+    "DATE",
+    "MISC",
+    "LAW",
+    "EMAIL",
+    "SCHEDULE",
+    "EVENT"
+  ],
+  "annotations": [
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "El contrato podrá prorrogarse dos años adicionales, hasta un máximo de cinco años en su totalidad, incluidas las posibles prórrogas.\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta Económica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Ver PCAP. Se presentará el Anexo II del PCAP debidamente firmado por el representante legal de la empresa licitante en formato adobe generado con la plantilla que se anexa. El documento se presentará a través de la herramienta de preparación y presentación de ofertas de la PLACSP.  Declaración responsable (incluida en el anexo II) firmada electrónicamente por el representante legal de la empresa licitante de que caso de resultar como mejor oferta aportará muestras, descripciones y fotografías de los productos a suministrar, cuya autenticidad pueda certificarse a petición de la entidad del sector público contratante, presentado cuando se le requiera la documentación reflejada en el Pliego.\n",
+      {
+        "entities": [
+          [
+            4,
+            8,
+            "MISC"
+          ],
+          [
+            27,
+            44,
+            "MISC"
+          ],
+          [
+            274,
+            280,
+            "ORG"
+          ],
+          [
+            283,
+            306,
+            "MISC"
+          ],
+          [
+            323,
+            331,
+            "MISC"
+          ],
+          [
+            690,
+            696,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Ver PCAP. Se presentará el Anexo II del PCAP debidamente firmado por el representante legal de la empresa licitante en formato adobe generado con la plantilla que se anexa. El documento se presentará a través de la herramienta de preparación y presentación de ofertas de la PLACSP Para ser admitidos los licitadores deberán acreditar un volumen anual de referido al mejor ejercicio de los señalados en los Pliegos y no inferior a la cantidad reflejada en los Pliegos.\n",
+      {
+        "entities": [
+          [
+            4,
+            8,
+            "MISC"
+          ],
+          [
+            27,
+            44,
+            "MISC"
+          ],
+          [
+            274,
+            280,
+            "ORG"
+          ],
+          [
+            406,
+            413,
+            "MISC"
+          ],
+          [
+            459,
+            466,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Ver PCAP. Se presentará el Anexo II del PCAP debidamente firmado por el representante legal de la empresa licitante en formato adobe generado con la plantilla que se anexa. El documento se presentará a través de la herramienta de preparación y presentación de ofertas de la PLACSP.  Declaración responsable (incluida en el anexo II) firmada electrónicamente por el representante legal de la empresa licitante de que caso de resultar como mejor oferta aportará muestras, descripciones y fotografías de los productos a suministrar, cuya autenticidad pueda certificarse a petición de la entidad del sector público contratante, presentado cuando se le requiera la documentación reflejada en el Pliego.\n",
+      {
+        "entities": [
+          [
+            4,
+            8,
+            "MISC"
+          ],
+          [
+            27,
+            44,
+            "MISC"
+          ],
+          [
+            274,
+            280,
+            "ORG"
+          ],
+          [
+            283,
+            306,
+            "MISC"
+          ],
+          [
+            323,
+            331,
+            "MISC"
+          ],
+          [
+            690,
+            696,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Ver PCAP. Se presentará el Anexo II del PCAP debidamente firmado por el representante legal de la empresa licitante en formato adobe generado con la plantilla que se anexa. El documento se presentará a través de la herramienta de preparación y presentación de ofertas de la PLACSP Para ser admitidos los licitadores deberán acreditar un volumen anual de referido al mejor ejercicio de los señalados en los Pliegos y no inferior a la cantidad reflejada en los Pliegos.\n",
+      {
+        "entities": [
+          [
+            4,
+            8,
+            "MISC"
+          ],
+          [
+            27,
+            44,
+            "MISC"
+          ],
+          [
+            274,
+            280,
+            "ORG"
+          ],
+          [
+            406,
+            413,
+            "MISC"
+          ],
+          [
+            459,
+            466,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No procede\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "A presentar si resultara la oferta más ventajosa de las presentadas.\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "La persona adjudicataria vendrá obligada a responsabilizarse de realizar una recogida selectiva de los residuos generados durante la ejecución del contrato.\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Calidad Técnica, sostenibilidad y mantenimiento de la oferta.\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Mejor oferta económica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Posibilidad de prórrogas por otros 12 meses\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Mejor valorado\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Una relación de los principales servicios o trabajos realizados de igual o similar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "naturaleza que los que constituyen el objeto del contrato en el curso de los últimos tres\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "años que incluya importe, fechas y el destinatario, público o privado, de los mismos. Los\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "servicios o trabajos efectuados se acreditarán mediante certificados expedidos o visados por\n",
+      {
+        "entities": [
+          [
+            56,
+            68,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "el órgano competente, cuando el destinatario sea una entidad del sector público; cuando el\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "destinatario sea un sujeto privado, mediante un certificado expedido por éste o, a falta de\n",
+      {
+        "entities": [
+          [
+            48,
+            59,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "este certificado, mediante una declaración del empresario; en su caso, estos certificados\n",
+      {
+        "entities": [
+          [
+            5,
+            16,
+            "MISC"
+          ],
+          [
+            77,
+            89,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "serán comunicados directamente al órgano de contratación por la autoridad competente.\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "El importe mínimo anual que el empresario deberá acreditar como ejecutado durante el año\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "de mayor ejecución del periodo citado será de 150.000,00 euros para cada uno de los lotes,\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "en servicios de igual o similar naturaleza que los que constituyen el objeto del contrato, para\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "lo cual se tomará como referencia los tres primeros dígitos del código CPV.\n",
+      {
+        "entities": [
+          [
+            71,
+            74,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Oferta económica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Ser ventajosa para los intereses municipales\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta económica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta económica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Aceptación de mejora prevista en Anexo\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Descuento canon fijo\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "descuento canon fijo\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "descuento en canon fijo\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "descuento en canon variable\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Duración de la prórroga 12 meses\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "El importe anual de los servicios realizados de igual o similar naturaleza que los que constituyen el objeto del contrato en el año de mayor ejecución en los tres últimos años deberá ser igual o superior al presupuesto base de licitación sin IVA\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Bolsa horas\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Están previstas prórrogas por otros 24 meses mas\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Relación de los principales servicios o trabajos efectuados en el año de mayor ejecución dentro de\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "los tres últimos que deberá ser igual o superior a: 1.800.000,00€ en servicios de igual o similar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "naturaleza que los que constituyen el objeto del contrato, para lo cual se tomará como referencia los\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "tres primeros dígitos del código CPV.\n",
+      {
+        "entities": [
+          [
+            33,
+            36,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "La relación de los principales servicios o trabajos realizados incluirá importe, fecha y el destinatario\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "público o privado de los mismos. Cuando le sea requerido por los servicios dependientes del órgano\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "de contratación los servicios o trabajos efectuados se acreditarán mediante certificados expedidos o\n",
+      {
+        "entities": [
+          [
+            76,
+            88,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "visados por el órgano competente, cuando el destinatario sea una entidad del sector público;\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "cuando el destinatario sea un sujeto privado, mediante un certificado expedido por este o, a falta de\n",
+      {
+        "entities": [
+          [
+            58,
+            69,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "este certificado, mediante una declaración del empresario acompañado de los documentos\n",
+      {
+        "entities": [
+          [
+            5,
+            16,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "obrantes en poder del mismo que acrediten la realización de la prestación; en su caso, estos\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "certificados serán comunicados directamente al órgano de contratación por la autoridad\n",
+      {
+        "entities": [
+          [
+            0,
+            12,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "competente.\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Volumen anual de negocios, que referido al mejor ejercicio de los tres (3) últimos concluidos deberá\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "ser igual o superior a: 1.800.000,00€ sin IVA .\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Integración estética y funcional\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta económica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Mayor personal\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "A.3. Análisis del sistema de implantación en obra de los medios auxiliares que vaya a utilizar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "oferta economica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta económica.  \n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      " Ver PCAP. Se presentará el Anexo II del PCAP debidamente firmado por el representante legal de la empresa licitante en formato adobe generado con la plantilla que se anexa. El documento se presentará a través de la herramienta de preparación y presentación de ofertas de la PLACSP Para ser admitidos los licitadores deberán acreditar un volumen anual de referido al mejor ejercicio de los señalados en los Pliegos y no inferior a la cantidad reflejada en los Pliegos.\n",
+      {
+        "entities": [
+          [
+            5,
+            9,
+            "MISC"
+          ],
+          [
+            28,
+            45,
+            "MISC"
+          ],
+          [
+            275,
+            281,
+            "ORG"
+          ],
+          [
+            407,
+            414,
+            "MISC"
+          ],
+          [
+            460,
+            467,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No procede. \n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Compromisos post-venta\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Mejora económica al tipo de licitación \n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Garantizar el cumplimiento de los convenios colectivos sectoriales y territoriales aplicables.\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "oferta económica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "El plazo de ejecución del contrato de servicios será desde el 16 de junio al 31 de agosto de 2025 pudiendo prorrogarse por el Ayuntamiento por un periodo equivalente  en el año 2026 ( es decir durante los meses de segunda quincena de junio, julio y agosto, que incluye socorrismo, monitores, limpieza, y control de accesos) no obstante el servicio de mantenimiento de las piscinas se extenderá a todos los meses del año.\n",
+      {
+        "entities": [
+          [
+            62,
+            73,
+            "DATE"
+          ],
+          [
+            77,
+            97,
+            "DATE"
+          ],
+          [
+            177,
+            181,
+            "DATE"
+          ],
+          [
+            214,
+            255,
+            "DATE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Que en las nuevas contrataciones, o sustituciones que se produzcan durante la ejecución del contrato, se comprometa a incorporar al menos un 20 % de personas desempleadas inscritas en las oficinas de empleo\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "OFERTA ECONÓMICA\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Los licitadores habrán de justificar experiencia en prestación de servicios del mismo tipo o naturaleza del que corresponde el objeto de los lotes de este contrato (según el lote al que se presenten), es decir, que se acreditará mediante una relación de los servicios ejecutados por el interesado en los últimos tres años, y el requisito mínimo será que el importe acumulado en el año de mayor ejecución sea igual o superior a 64.474,06 euros. Los servicios o trabajos efectuados se acreditarán mediante certificados expedidos o visados por el órgano competente, cuando el destinatario sea una entidad del sector público; cuando el destinatario sea un sujeto privado, mediante un certificado expedido por este o, a falta de este certificado, mediante una declaración del empresario acompañado de los documentos obrantes en poder del mismo que acrediten la realización de la prestación\n",
+      {
+        "entities": [
+          [
+            504,
+            516,
+            "MISC"
+          ],
+          [
+            680,
+            691,
+            "MISC"
+          ],
+          [
+            729,
+            740,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Declaración de volumen anual de negocios con un importe anual mínimo de 460.529,00 euros; referido al año de mayor volumen de negocio dentro de los últimos 3 años concluidos. El volumen anual de negocios del licitador se acreditará mediante la aportación de las cuentas anuales aprobadas y depositadas en el Registro Mercantil, si el licitador se encuentra inscrito y, en caso contrario, por las cuentas depositadas en el registro oficial en el que deba estar inscrito. Los empresarios individuales no inscritos en el Registro Mercantil acreditarán su volumen anual de negocios mediante sus libros inventarios y cuentas anuales legalizados por el Registro Mercantil, o mediante la aportación de original o copia auténtica de resumen anual de IVA (Modelo 390)\n",
+      {
+        "entities": [
+          [
+            308,
+            326,
+            "ORG"
+          ],
+          [
+            518,
+            536,
+            "ORG"
+          ],
+          [
+            647,
+            665,
+            "ORG"
+          ],
+          [
+            747,
+            757,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "El volumen anual de negocios del licitador o candidato se acreditará por medio de sus cuentas anuales aprobadas y depositadas en el Registro Mercantil, si el empresario estuviera inscrito en dicho registro, y en caso contrario por las depositadas en el registro oficial en que deba estar inscrito. Los empresarios individuales no inscritos en el Registro Mercantil acreditarán su volumen anual de negocios mediante sus libros de inventarios y cuentas anuales legalizados por el Registro Mercantil. \n",
+      {
+        "entities": [
+          [
+            132,
+            150,
+            "ORG"
+          ],
+          [
+            346,
+            364,
+            "ORG"
+          ],
+          [
+            478,
+            496,
+            "ORG"
+          ]
+        ]
+      }
+    ],
+    [
+      "Estas empresas no españolas de Estados Miembros de la Union Europea están exoneradas del cumplimiento de clasificación \n",
+      {
+        "entities": [
+          [
+            54,
+            67,
+            "ORG"
+          ]
+        ]
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Se deberá justificar por el adjudicatario acciones encaminadas a: \n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "b) promoción del reciclado de productos.\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta económica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No procede\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta económica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Criterios evaluables mediante juicio de valor.\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Ampliación del plazo de garantía\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "a.2.- Oferta de mejoras/prestaciones adicionales",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Seguro de responsabilidad civil por riesgos profesionales\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Ampliación del plazo de garantía\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta económica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta económica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Sometimiento a la normativa nacional y de la Unión Europea en materia de protección de\n",
+      {
+        "entities": [
+          [
+            45,
+            58,
+            "ORG"
+          ]
+        ]
+      }
+    ],
+    [
+      "datos\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Limpieza de choque en domicilios\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Bolsa de horas de rehabilitación terapéutica anual\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Ampliación de garantía\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta económica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Ampliación del plazo de garantía\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Estabilidad en el empleo. Porcentaje de personal fijo en relación con la plantilla global de la empresa\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "L1 Oferta economica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "L1 Criterio social\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "L2 Oferta economica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Por ser única oferta y haber resultado apta.\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Por ser única oferta y haber resultado apta.\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Por ser única oferta y haber resultado apta.\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "A-1 Horas Tutoria Presencial\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Número de indicadores relevantes\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Planificación del proyecto\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Estudio inicial áreas (máximo 6,00 puntos)\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Declarar desierto el expediente tramitado para la contratación de informes de evaluación del edificio, certificado energético y libro de edificio a origien de los ámbitos colonia san esteban, portalicos y Torresal, (ERRP TORREVIEJA) FINANCIADO POR PRTR, FONDOS NEXT GENERATION EU, TRAMITACIÓN ANTICIPADA, URGENTE. LOTE 2: Ámbito 2: Torresal, mediante el procedimiento abierto simplificado, al no haber concurrido ningún licitador al citado lote.\n",
+      {
+        "entities": [
+          [
+            66,
+            101,
+            "MISC"
+          ],
+          [
+            103,
+            125,
+            "MISC"
+          ],
+          [
+            128,
+            145,
+            "MISC"
+          ],
+          [
+            171,
+            190,
+            "LOC"
+          ],
+          [
+            192,
+            202,
+            "LOC"
+          ],
+          [
+            205,
+            213,
+            "LOC"
+          ],
+          [
+            216,
+            231,
+            "LOC"
+          ],
+          [
+            248,
+            252,
+            "MISC"
+          ],
+          [
+            254,
+            279,
+            "MISC"
+          ],
+          [
+            332,
+            340,
+            "LOC"
+          ]
+        ]
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta económica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Reducción plazo de ejecución\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "mejor oferta según apartado 8 PCAP\n",
+      {
+        "entities": [
+          [
+            19,
+            34,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "mejor oferta según apartado 8 PCAP\n",
+      {
+        "entities": [
+          [
+            19,
+            34,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Mejor oferta según apartado 8 PCAP\n",
+      {
+        "entities": [
+          [
+            19,
+            34,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "mejor oferta según apartado 8 PCAP\n",
+      {
+        "entities": [
+          [
+            19,
+            34,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "mejor  oferta según apartado 8 PCAP\n",
+      {
+        "entities": [
+          [
+            20,
+            35,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Mejor oferta según apartado 8 PCAP\n",
+      {
+        "entities": [
+          [
+            19,
+            34,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Mejor oferta según apartado 8 PCAP\n",
+      {
+        "entities": [
+          [
+            19,
+            34,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Mejor oferta según apartado 8 PCAP\n",
+      {
+        "entities": [
+          [
+            19,
+            34,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "mejor oferta según apartado 8 PCAP\n",
+      {
+        "entities": [
+          [
+            19,
+            34,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "QUE RESULTE DE APLICACIÓN\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta economica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Creatividad y originalidad en el desarrollo de la idea\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Calidad en la adaptación a distintos formatos\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Reducción en los plazos de entrega\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Se permite la subcontratacion parcial excepto la tarea critica: gestion, coordinacion y comunicacion con Tragsatec del servicio, los trabajos especificos de limpieza, mantenimiento y planchado de prendas por parte del personal de la adjudicataria.\n",
+      {
+        "entities": [
+          [
+            105,
+            114,
+            "ORG"
+          ]
+        ]
+      }
+    ],
+    [
+      "Se considera condición especial del contrato, de carácter social, el cumplimiento del convenio colectivo sectorial y territorial aplicable.\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "En el SOBRE ELECTRÓNICO ÚNICO los licitadores deberán presentar el Anexo I (CRITERIOS EVALUABLES DE FORMA AUTOMÁTICA MEDIANTE FÓRMULAS) y el Anexo II (DECLARACIÓN RESPONSABLE DE CUMPLIMIENTO DE LOS REQUISITOS MÍNIMOS PARA LICITAR) cumplimentando en todos sus apartados las respectivas plantillas suministradas por Tragsa y con ellas se generarán sendos pdf que se presentarán cifrados y firmados electrónicamente por el representante legal de la empresa a través de la herramienta de preparación y presentación de ofertas facilitada por la PLACSP.\n",
+      {
+        "entities": [
+          [
+            6,
+            29,
+            "MISC"
+          ],
+          [
+            67,
+            135,
+            "MISC"
+          ],
+          [
+            141,
+            230,
+            "MISC"
+          ],
+          [
+            314,
+            320,
+            "ORG"
+          ],
+          [
+            540,
+            546,
+            "ORG"
+          ]
+        ]
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta coste por copia de los equipos multifunción (hasta 5,00 puntos)\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Compromiso de acudir a las instalaciones del Ayuntamiento de Meco en un máximo de 2 horas en casos de necesidad de asistencia urgente (hasta 5,00 puntos)\n",
+      {
+        "entities": [
+          [
+            45,
+            65,
+            "ORG"
+          ]
+        ]
+      }
+    ],
+    [
+      "Mejora en el proceso de incremento de la Seguridad del Sistema de información (hasta 15,00 puntos)\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Conforme a la cláusula 3.3 del PCAP\n",
+      {
+        "entities": [
+          [
+            14,
+            35,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Conforme a la cláusula 3.3 del PCAP\n",
+      {
+        "entities": [
+          [
+            14,
+            35,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Conforme a la cláusula 3.1 del PCAP\n",
+      {
+        "entities": [
+          [
+            14,
+            35,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Conforme a la cláusula 3.1 del PCAP\n",
+      {
+        "entities": [
+          [
+            14,
+            35,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Conforme a la cláusula 3.1 del PCAP\n",
+      {
+        "entities": [
+          [
+            14,
+            35,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Conforme a la cláusula 3.1 del PCAP\n",
+      {
+        "entities": [
+          [
+            14,
+            35,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Documentación acreditativa: Los servicios efectuados se acreditarán mediante certificados expedidos o visados por el órgano competente, cuando el destinatario sea una entidad del sector público; cuando el destinatario sea un sujeto privado, mediante un certificado expedido por éste o, a falta de este certificado, mediante una declaración del empresario acompañado de los documentos obrantes en poder del mismo que acrediten la realización de la prestación. Todo ello conforme a la Cláusula 2.2 del Anexo II del PCAP\n",
+      {
+        "entities": [
+          [
+            77,
+            89,
+            "MISC"
+          ],
+          [
+            253,
+            264,
+            "MISC"
+          ],
+          [
+            302,
+            313,
+            "MISC"
+          ],
+          [
+            483,
+            517,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Criterios evaluables mediante fórmulas\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Criterios juicio de valor\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Consideraciones de tipo ambiental\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "c) Los licitadores deberán incluir los nombres y cualificación profesional del personal responsable de ejecutar la prestación objeto del contrato.\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Según apartado 11 del Anexo I del PCAP\n",
+      {
+        "entities": [
+          [
+            6,
+            38,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Según apartado 11 del Anexo I del PCAP\n",
+      {
+        "entities": [
+          [
+            6,
+            38,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "El contrato se podrá prorrogar anualmente hasta un máximo de dos años más.\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Sólo se admiten ofertas presentadas a través de la herramienta de preparación y presentación que facilita la PLACSP. Para cualquier duda o incidencia con la descarga, uso y manejo de dicha herramienta, póngase en contacto con los responsables de la Plataforma de Contratación a través del correo-e licitacionE@hacienda.gob.es, en horario de lunes a jueves de 9:00 a 19:00 y viernes de 9:00 a 15:00, indicando el número de expediente, órgano de contratación y detalle del error, adjuntando captura de pantalla si es posible.\n",
+      {
+        "entities": [
+          [
+            109,
+            115,
+            "ORG"
+          ],
+          [
+            249,
+            275,
+            "ORG"
+          ],
+          [
+            298,
+            325,
+            "EMAIL"
+          ],
+          [
+            341,
+            371,
+            "SCHEDULE"
+          ],
+          [
+            374,
+            397,
+            "SCHEDULE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Oferta económica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "PRECIO/HORA PARA SERVICIOS SOLICITADOS A DEMANDA\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "OFERTA ECONÓMICA\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Las ofertas obligatoriamente de forma telemática a través de la plataforma de licitación electrónica del Ayuntamiento de Lugo (LECOL) que está la disposición de los licitadores en la siguiente dirección: https://lecol.lugo.gal/SLE_Internet\n",
+      {
+        "entities": [
+          [
+            105,
+            125,
+            "ORG"
+          ],
+          [
+            127,
+            132,
+            "ORG"
+          ]
+        ]
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Calidad Técnica de la oferta\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "1.- Cuentas anuales.\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "2.- Otros requisitos económicos o financieros (para el licitador que no pueda presentar las cuentas anuales).\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "La empresa deberá respetar la igualdad de trato y de oportunidades en el ámbito laboral, contar con medidas dirigidas a evitar cualquier tipo de discriminación laboral y promover condiciones de trabajo que eviten el acoso sexual y el acoso por razón de sexo y arbitrar procedimientos específicos para su prevención y para dar cauce a las denuncias o reclamaciones.\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Plazo de garantía\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta económica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Mejoras y/o aportaciones adicionales evaluables mediante juicio de valor.\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Mejoras y/o aportaciones adicionales evaluables mediante fórmula\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta técnica evaluable de forma automática\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "una posible prórroga de 12 meses\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "oferta mas ventajosa\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Relación de los servicios de igual o similar naturaleza ejecutados en los 3 últimos años como máximo\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "oferta economica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta económica Mantenimiento Preventivo \n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Según apartado j) del cuadro de características del contrato.\n",
+      {
+        "entities": [
+          [
+            6,
+            60,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Según apartado j) del cuadro de características del contrato.\n",
+      {
+        "entities": [
+          [
+            6,
+            60,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Tm adicionales sin sobrecoste\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "2.2 Calidad del encapsulado (sellado y materiales con grosor inferior a 4.6 mm). \n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "2.1 Tasa de estimulación en pulsos por segundo. Posibilidad de medición de umbrales de reflejo estapedial evocados eléctricamente y potenciales evocados de tronco.\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Adjudicar el expediente 54/S/24/SU/CO/A/0029, destinado a la contratación del Suministro de sistemas de estimulación coclear de preservación con electrodos rectos (adultos) y sistemas de estimulación coclear modiolar flexible y de preservación (pediátricos) para el Complejo Hospitalario Universitario Insular Materno Infantil de Gran Canaria, mediante procedimiento abierto, a\n",
+      {
+        "entities": [
+          [
+            13,
+            44,
+            "MISC"
+          ],
+          [
+            266,
+            342,
+            "ORG"
+          ]
+        ]
+      }
+    ],
+    [
+      "las entidades Med-El España, (Inversión del Sujeto Pasivo) de conformidad con la excepción prevista en el artículo 19.1, apartado 2º, letra a), de la Ley 20/1991, de 7 de junio), con CIF W0381075A, por un importe total de trescientos setenta mil cuatrocientos noventa y cuatro euros (370.494,00 €), IGIC tipo cero, y Amplifon Ibérica, S. A.U., (Comerciante minorista, Art. 50.1.27, de la Ley 4/2012 de 25 de junio, de Medidas Administrativas y Fiscales), con CIF A08612061, por un importe total de un millón doscientos setenta y seis mil novecientos cincuenta y dos euros (1.276.952,00€), tipo de IGIC 0%, (Ley 7/2023, de 27 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 2024, en cuya disposición final séptima modifica la letra p) del Artículo 52 de la Ley 4/2012, de 25 de junio, de medidas administrativas y fiscales).\n",
+      {
+        "entities": [
+          [
+            14,
+            27,
+            "ORG"
+          ],
+          [
+            106,
+            176,
+            "LAW"
+          ],
+          [
+            183,
+            196,
+            "MISC"
+          ],
+          [
+            317,
+            342,
+            "ORG"
+          ],
+          [
+            368,
+            452,
+            "LAW"
+          ],
+          [
+            459,
+            472,
+            "MISC"
+          ],
+          [
+            607,
+            711,
+            "LAW"
+          ],
+          [
+            772,
+            855,
+            "LAW"
+          ]
+        ]
+      }
+    ],
+    [
+      "Adjudicar el expediente 54/S/24/SU/CO/A/0029, destinado a la contratación del Suministro de sistemas de estimulación coclear de preservación con electrodos rectos (adultos) y sistemas de estimulación coclear modiolar flexible y de preservación (pediátricos) para el Complejo Hospitalario Universitario Insular Materno Infantil de Gran Canaria, mediante procedimiento abierto, a\n",
+      {
+        "entities": [
+          [
+            13,
+            44,
+            "MISC"
+          ],
+          [
+            266,
+            342,
+            "ORG"
+          ]
+        ]
+      }
+    ],
+    [
+      "las entidades Med-El España, (Inversión del Sujeto Pasivo) de conformidad con la excepción prevista en el artículo 19.1, apartado 2º, letra a), de la Ley 20/1991, de 7 de junio), con CIF W0381075A, por un importe total de trescientos setenta mil cuatrocientos noventa y cuatro euros (370.494,00 €), IGIC tipo cero, y Amplifon Ibérica, S. A.U., (Comerciante minorista, Art. 50.1.27, de la Ley 4/2012 de 25 de junio, de Medidas Administrativas y Fiscales), con CIF A08612061, por un importe total de un millón doscientos setenta y seis mil novecientos cincuenta y dos euros (1.276.952,00€), tipo de IGIC 0%, (Ley 7/2023, de 27 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 2024, en cuya disposición final séptima modifica la letra p) del Artículo 52 de la Ley 4/2012, de 25 de junio, de medidas administrativas y fiscales).\n",
+      {
+        "entities": [
+          [
+            14,
+            27,
+            "ORG"
+          ],
+          [
+            106,
+            176,
+            "LAW"
+          ],
+          [
+            183,
+            196,
+            "MISC"
+          ],
+          [
+            317,
+            342,
+            "ORG"
+          ],
+          [
+            368,
+            452,
+            "LAW"
+          ],
+          [
+            459,
+            472,
+            "MISC"
+          ],
+          [
+            607,
+            711,
+            "LAW"
+          ],
+          [
+            772,
+            855,
+            "LAW"
+          ]
+        ]
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta económica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No se contemplan\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "El plazo de presentación de las proposiciones será hasta el próximo 9 de octubre de 2024\n",
+      {
+        "entities": [
+          [
+            68,
+            88,
+            "DATE"
+          ]
+        ]
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "oferta mejor relación calidad/precio\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "El importe anual acumulado en el año de mayor ejecución debe ser igual o superior al 70 por ciento de la anualidad media del contrato. El requisito mínimo será que el importe anual acumulado en el año de mayor ejecución sea igual o superior a 313.950,00 € (trescientos trece mil novecientos cincuenta euros).\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Los trabajos efectuados se acreditarán mediante certificados expedidos o visados por el órgano competente,  cuando el destinatario sea una entidad del sector público o cuando el destinatario sea un comprador privado, mediante un certificado expedido por éste o, a falta de este certificado, mediante una declaración del empresario, acompañada de los documentos obrantes en poder de este que acrediten la realización de la prestación.\n",
+      {
+        "entities": [
+          [
+            48,
+            60,
+            "MISC"
+          ],
+          [
+            229,
+            240,
+            "MISC"
+          ],
+          [
+            278,
+            289,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Además, deberá aportar certificados en vigor emitidos por una entidad de certificación acreditada por la Entidad Nacional de Acreditación (ENAC) o por el correspondiente Organismo Nacional de Acreditación de cualquier otro estado miembro.\n",
+      {
+        "entities": [
+          [
+            23,
+            35,
+            "MISC"
+          ],
+          [
+            105,
+            144,
+            "ORG"
+          ]
+        ]
+      }
+    ],
+    [
+      "Volumen anual de negocios, referido al mejor ejercicio dentro de los tres últimos concluidos deberá ser, al menos, una vez y media el valor anual medio del contrato, siendo por tanto igual o superior a 672.750,00 € (seiscientos setenta y dos mil setecientos cincuenta euros).\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Precio u oferta económica.\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Solución técnica ofertada\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Mejora del Seguro de responsabilidad civil en vigor \n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Según PCAP\n",
+      {
+        "entities": [
+          [
+            6,
+            10,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Según PCAP\n",
+      {
+        "entities": [
+          [
+            6,
+            10,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Además los licitadores deberán aportar los siguientes Certificados de calidad:\n",
+      {
+        "entities": [
+          [
+            54,
+            77,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "SEGÚN PCAP\n",
+      {
+        "entities": [
+          [
+            6,
+            10,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "OFERTA ECONOMICA\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "REDUCCIÓN PLAZO DE ENTREGA\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Se especifica en el Anexo III del PCAP\n",
+      {
+        "entities": [
+          [
+            20,
+            38,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Se especifica en el Anexo III del PCAP\n",
+      {
+        "entities": [
+          [
+            20,
+            38,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Se adjudica el contrato a la empresa propuesta por la Mesa de Contratación.\n",
+      {
+        "entities": [
+          [
+            54,
+            74,
+            "ORG"
+          ]
+        ]
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Aspectos generales\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Ampliación del plazo de garantía\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "El contrato podrá ser prorrogado de forma expresa, antes de su finalización, sin que la duración del contrato, incluidas prórrogas, exceda de dos años\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Consideraciones de tipo medioambiental. Ver cláusula vigésima del pliego de cláusulas administrativas particulares\n",
+      {
+        "entities": [
+          [
+            44,
+            114,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Plan Sanitario frente a Legionella\n",
+      {
+        "entities": [
+          [
+            0,
+            34,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "mediante una relación de los principales servicios o trabajos realizados de igual o similar naturaleza que los que constituyen el objeto del contrato en el curso de, como máximo los tres últimos años, en la que se indique el importe, la fecha y el destinatario, público o privado de los mismos\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta económica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Protocolo de actuación ante personas de atención específica\n",
+      {
+        "entities": [
+          [
+            0,
+            59,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Mejoras técnicas\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Habilitación empresarial:\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "a) Una relación de los principales servicios o trabajos realizados de igual o similar naturaleza que los que constituyen el objeto del contrato en el curso de, como máximo los tres últimos años, en la que se indique el importe, la fecha y el destinatario, público o privado de los mismos\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "SEGÚN PCAP\n",
+      {
+        "entities": [
+          [
+            6,
+            10,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "SEGÚN PCAP\n",
+      {
+        "entities": [
+          [
+            6,
+            10,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "CLAUSULA 6.3\n",
+      {
+        "entities": [
+          [
+            0,
+            12,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "CLAUSULA 27 DEL PCAP\n",
+      {
+        "entities": [
+          [
+            0,
+            20,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "OFERTA ECONOMICA\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Detalle y adecuación de la solución propuesta\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Según Cláusula vigesimosegunda del PCAP\n",
+      {
+        "entities": [
+          [
+            6,
+            39,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Según Cláusula vigésima del PCAP\n",
+      {
+        "entities": [
+          [
+            6,
+            32,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Según Cláusula vigésima del PCAP\n",
+      {
+        "entities": [
+          [
+            6,
+            32,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Según Cláusula vigésima del PCAP\n",
+      {
+        "entities": [
+          [
+            6,
+            32,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Según Cláusula vigésima del PCAP\n",
+      {
+        "entities": [
+          [
+            6,
+            32,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Según Cláusula vigésima del PCAP\n",
+      {
+        "entities": [
+          [
+            6,
+            32,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "oferta economica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "CLÁUSULA VIGESIMOPRIMERA. Condiciones Especiales de Ejecución del Contrato.\n",
+      {
+        "entities": [
+          [
+            0,
+            74,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "2.1.-Mejora 1. Baja en unidades o elementos de posible uso o necesidad no prevista.\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "equipos y la maquinaria cumplan exigencias y especificaciones técnicas de carácter ambiental y de mantenimiento\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Ampliación de flota de vehículos auxiliares eléctricos\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "OFERTA ECONÓMICA\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Relación de los principales servicios o trabajos realizados de igual o similar naturaleza que los que constituyen el objeto del contrato en el curso de los últimos 3 años, en la que se indique el importe, la fecha y el destinatario, público o privado de los mismos.\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "El importe mínimo anual que el empresario deberá acreditar como ejecutado durante el año de mayor ejecución del periodo citado será de 363.126,18 euros, en servicios de igual o similar naturaleza que los que constituyen el objeto del contrato, para lo cual se tomará como referencia los tres primeros dígitos de la CPV.\n",
+      {
+        "entities": [
+          [
+            315,
+            318,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta técnica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta Económica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta Técnica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Según PCAP\n",
+      {
+        "entities": [
+          [
+            6,
+            10,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Según PCAP\n",
+      {
+        "entities": [
+          [
+            6,
+            10,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "Gestión remota de los seis centros para los que se debe sustituir el equipamiento\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta económica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta económica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta económica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "El mejor valorado\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Trabajos realizados\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Cifra anual de negocio\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Oferta económica\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "SE ACREDITARÁ LA SOLVENCIA TECNICA MEDIANTE LA CLASIFICACIÓN DEL APARTADO 9.1 DEL ANEXO I DEL PCAP\n",
+      {
+        "entities": [
+          [
+            65,
+            98,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "SE ACREDITARÁ LA SOLVENCIA ECONÓMICA MEDIANTE LA CLASIFICACIÓN DEL APARTADO 9.1 DEL ANEXO I DEL PCAP\n",
+      {
+        "entities": [
+          [
+            67,
+            100,
+            "MISC"
+          ]
+        ]
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "AMPLIACIÓN PLAZO GARANTIA (PG)\n",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "No prohibición para contratar\n",
+      {
+        "entities": []
+      }
+    ]
+  ],
+  "metadata": {
+    "split": "test",
+    "seed": 42,
+    "guideline": "2.1",
+    "annotation_sha256": "5d0196d2eaebcc9b4d8178b61a288eb86f6114c9e2bec2c04f9f28c829ada989",
+    "split_manifest_sha256": "26b60fd7332b0fdafe786bde73f8befae51c4076daba17708f448d9401e8b528",
+    "original_annotation_indices": [
+      3,
+      6,
+      8,
+      10,
+      11,
+      12,
+      13,
+      18,
+      22,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      49,
+      50,
+      55,
+      57,
+      60,
+      66,
+      67,
+      72,
+      73,
+      75,
+      79,
+      81,
+      83,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      102,
+      103,
+      104,
+      106,
+      110,
+      111,
+      121,
+      125,
+      129,
+      134,
+      140,
+      141,
+      148,
+      154,
+      155,
+      156,
+      160,
+      162,
+      163,
+      164,
+      170,
+      191,
+      192,
+      194,
+      198,
+      200,
+      205,
+      207,
+      215,
+      222,
+      227,
+      237,
+      247,
+      257,
+      263,
+      266,
+      269,
+      273,
+      274,
+      278,
+      285,
+      293,
+      315,
+      322,
+      323,
+      329,
+      330,
+      336,
+      346,
+      351,
+      352,
+      353,
+      354,
+      355,
+      362,
+      367,
+      394,
+      395,
+      396,
+      408,
+      418,
+      422,
+      428,
+      429,
+      459,
+      469,
+      481,
+      485,
+      491,
+      494,
+      495,
+      498,
+      499,
+      501,
+      502,
+      503,
+      504,
+      508,
+      509,
+      510,
+      513,
+      526,
+      527,
+      528,
+      529,
+      532,
+      534,
+      550,
+      551,
+      553,
+      555,
+      562,
+      566,
+      567,
+      569,
+      589,
+      590,
+      591,
+      592,
+      593,
+      594,
+      596,
+      600,
+      607,
+      608,
+      615,
+      620,
+      628,
+      633,
+      634,
+      641,
+      649,
+      667,
+      672,
+      676,
+      681,
+      687,
+      690,
+      692,
+      696,
+      699,
+      702,
+      703,
+      709,
+      711,
+      712,
+      713,
+      714,
+      716,
+      718,
+      719,
+      720,
+      726,
+      733,
+      749,
+      751,
+      754,
+      755,
+      758,
+      760,
+      762,
+      766,
+      767,
+      768,
+      769,
+      773,
+      783,
+      788,
+      793,
+      802,
+      807,
+      813,
+      818,
+      820,
+      821,
+      824,
+      830,
+      837,
+      838,
+      850,
+      854,
+      855,
+      856,
+      858,
+      861,
+      865,
+      866,
+      871,
+      872,
+      876,
+      877,
+      881,
+      886,
+      888,
+      895,
+      899,
+      905,
+      910,
+      912,
+      917,
+      921,
+      925,
+      928,
+      929,
+      937,
+      939,
+      952,
+      956,
+      957,
+      959,
+      966,
+      987,
+      989,
+      992,
+      996,
+      1006,
+      1011,
+      1012,
+      1013,
+      1014,
+      1015,
+      1016,
+      1017,
+      1021,
+      1023,
+      1030,
+      1032,
+      1038,
+      1041,
+      1054,
+      1055,
+      1062,
+      1066,
+      1072,
+      1076,
+      1077,
+      1083,
+      1085,
+      1086,
+      1091,
+      1093,
+      1094,
+      1097,
+      1105,
+      1112,
+      1117,
+      1118,
+      1119,
+      1128,
+      1141,
+      1143,
+      1144,
+      1146,
+      1155,
+      1159
+    ],
+    "record_sources": [
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 4,
+        "original_source_start": 116,
+        "original_source_end_exclusive": 146,
+        "previous_annotation_index": 3,
+        "retained_source_start": 116,
+        "retained_source_end_exclusive": 146
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 9,
+        "original_source_start": 588,
+        "original_source_end_exclusive": 721,
+        "previous_annotation_index": 6,
+        "retained_source_start": 588,
+        "retained_source_end_exclusive": 721
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 11,
+        "original_source_start": 747,
+        "original_source_end_exclusive": 764,
+        "previous_annotation_index": 8,
+        "retained_source_start": 747,
+        "retained_source_end_exclusive": 764
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 15,
+        "original_source_start": 996,
+        "original_source_end_exclusive": 1694,
+        "previous_annotation_index": 10,
+        "retained_source_start": 996,
+        "retained_source_end_exclusive": 1694
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 16,
+        "original_source_start": 1694,
+        "original_source_end_exclusive": 2162,
+        "previous_annotation_index": 11,
+        "retained_source_start": 1694,
+        "retained_source_end_exclusive": 2162
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 17,
+        "original_source_start": 2162,
+        "original_source_end_exclusive": 2860,
+        "previous_annotation_index": 12,
+        "retained_source_start": 2162,
+        "retained_source_end_exclusive": 2860
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 18,
+        "original_source_start": 2860,
+        "original_source_end_exclusive": 3328,
+        "previous_annotation_index": 13,
+        "retained_source_start": 2860,
+        "retained_source_end_exclusive": 3328
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 23,
+        "original_source_start": 3535,
+        "original_source_end_exclusive": 3565,
+        "previous_annotation_index": 18,
+        "retained_source_start": 3535,
+        "retained_source_end_exclusive": 3565
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 27,
+        "original_source_start": 3753,
+        "original_source_end_exclusive": 3764,
+        "previous_annotation_index": 22,
+        "retained_source_start": 3753,
+        "retained_source_end_exclusive": 3764
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 32,
+        "original_source_start": 3998,
+        "original_source_end_exclusive": 4067,
+        "previous_annotation_index": 27,
+        "retained_source_start": 3998,
+        "retained_source_end_exclusive": 4067
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 33,
+        "original_source_start": 4067,
+        "original_source_end_exclusive": 4097,
+        "previous_annotation_index": 28,
+        "retained_source_start": 4067,
+        "retained_source_end_exclusive": 4097
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 34,
+        "original_source_start": 4097,
+        "original_source_end_exclusive": 4254,
+        "previous_annotation_index": 29,
+        "retained_source_start": 4097,
+        "retained_source_end_exclusive": 4254
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 35,
+        "original_source_start": 4254,
+        "original_source_end_exclusive": 4316,
+        "previous_annotation_index": 30,
+        "retained_source_start": 4254,
+        "retained_source_end_exclusive": 4316
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 36,
+        "original_source_start": 4316,
+        "original_source_end_exclusive": 4339,
+        "previous_annotation_index": 31,
+        "retained_source_start": 4316,
+        "retained_source_end_exclusive": 4339
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 37,
+        "original_source_start": 4339,
+        "original_source_end_exclusive": 4383,
+        "previous_annotation_index": 32,
+        "retained_source_start": 4339,
+        "retained_source_end_exclusive": 4383
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 38,
+        "original_source_start": 4383,
+        "original_source_end_exclusive": 4398,
+        "previous_annotation_index": 33,
+        "retained_source_start": 4383,
+        "retained_source_end_exclusive": 4398
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 39,
+        "original_source_start": 4398,
+        "original_source_end_exclusive": 4481,
+        "previous_annotation_index": 34,
+        "retained_source_start": 4398,
+        "retained_source_end_exclusive": 4481
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 40,
+        "original_source_start": 4481,
+        "original_source_end_exclusive": 4571,
+        "previous_annotation_index": 35,
+        "retained_source_start": 4481,
+        "retained_source_end_exclusive": 4571
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 41,
+        "original_source_start": 4571,
+        "original_source_end_exclusive": 4661,
+        "previous_annotation_index": 36,
+        "retained_source_start": 4571,
+        "retained_source_end_exclusive": 4661
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 42,
+        "original_source_start": 4661,
+        "original_source_end_exclusive": 4754,
+        "previous_annotation_index": 37,
+        "retained_source_start": 4661,
+        "retained_source_end_exclusive": 4754
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 43,
+        "original_source_start": 4754,
+        "original_source_end_exclusive": 4845,
+        "previous_annotation_index": 38,
+        "retained_source_start": 4754,
+        "retained_source_end_exclusive": 4845
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 44,
+        "original_source_start": 4845,
+        "original_source_end_exclusive": 4937,
+        "previous_annotation_index": 39,
+        "retained_source_start": 4845,
+        "retained_source_end_exclusive": 4937
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 45,
+        "original_source_start": 4937,
+        "original_source_end_exclusive": 5027,
+        "previous_annotation_index": 40,
+        "retained_source_start": 4937,
+        "retained_source_end_exclusive": 5027
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 46,
+        "original_source_start": 5027,
+        "original_source_end_exclusive": 5113,
+        "previous_annotation_index": 41,
+        "retained_source_start": 5027,
+        "retained_source_end_exclusive": 5113
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 47,
+        "original_source_start": 5113,
+        "original_source_end_exclusive": 5202,
+        "previous_annotation_index": 42,
+        "retained_source_start": 5113,
+        "retained_source_end_exclusive": 5202
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 48,
+        "original_source_start": 5202,
+        "original_source_end_exclusive": 5293,
+        "previous_annotation_index": 43,
+        "retained_source_start": 5202,
+        "retained_source_end_exclusive": 5293
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 49,
+        "original_source_start": 5293,
+        "original_source_end_exclusive": 5389,
+        "previous_annotation_index": 44,
+        "retained_source_start": 5293,
+        "retained_source_end_exclusive": 5389
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 50,
+        "original_source_start": 5389,
+        "original_source_end_exclusive": 5465,
+        "previous_annotation_index": 45,
+        "retained_source_start": 5389,
+        "retained_source_end_exclusive": 5465
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 56,
+        "original_source_start": 5788,
+        "original_source_end_exclusive": 5805,
+        "previous_annotation_index": 51,
+        "retained_source_start": 5788,
+        "retained_source_end_exclusive": 5805
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 57,
+        "original_source_start": 5805,
+        "original_source_end_exclusive": 5850,
+        "previous_annotation_index": 52,
+        "retained_source_start": 5805,
+        "retained_source_end_exclusive": 5850
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 62,
+        "original_source_start": 6170,
+        "original_source_end_exclusive": 6200,
+        "previous_annotation_index": 57,
+        "retained_source_start": 6170,
+        "retained_source_end_exclusive": 6200
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 64,
+        "original_source_start": 6219,
+        "original_source_end_exclusive": 6236,
+        "previous_annotation_index": 59,
+        "retained_source_start": 6219,
+        "retained_source_end_exclusive": 6236
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 67,
+        "original_source_start": 6295,
+        "original_source_end_exclusive": 6312,
+        "previous_annotation_index": 62,
+        "retained_source_start": 6295,
+        "retained_source_end_exclusive": 6312
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 74,
+        "original_source_start": 6555,
+        "original_source_end_exclusive": 6594,
+        "previous_annotation_index": 68,
+        "retained_source_start": 6555,
+        "retained_source_end_exclusive": 6594
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 75,
+        "original_source_start": 6594,
+        "original_source_end_exclusive": 6615,
+        "previous_annotation_index": 69,
+        "retained_source_start": 6594,
+        "retained_source_end_exclusive": 6615
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 80,
+        "original_source_start": 6681,
+        "original_source_end_exclusive": 6702,
+        "previous_annotation_index": 74,
+        "retained_source_start": 6681,
+        "retained_source_end_exclusive": 6702
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 81,
+        "original_source_start": 6702,
+        "original_source_end_exclusive": 6726,
+        "previous_annotation_index": 75,
+        "retained_source_start": 6702,
+        "retained_source_end_exclusive": 6726
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 83,
+        "original_source_start": 6733,
+        "original_source_end_exclusive": 6761,
+        "previous_annotation_index": 77,
+        "retained_source_start": 6733,
+        "retained_source_end_exclusive": 6761
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 87,
+        "original_source_start": 6981,
+        "original_source_end_exclusive": 7014,
+        "previous_annotation_index": 81,
+        "retained_source_start": 6981,
+        "retained_source_end_exclusive": 7014
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 89,
+        "original_source_start": 7023,
+        "original_source_end_exclusive": 7269,
+        "previous_annotation_index": 83,
+        "retained_source_start": 7023,
+        "retained_source_end_exclusive": 7269
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 91,
+        "original_source_start": 7435,
+        "original_source_end_exclusive": 7447,
+        "previous_annotation_index": 85,
+        "retained_source_start": 7435,
+        "retained_source_end_exclusive": 7447
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 93,
+        "original_source_start": 7454,
+        "original_source_end_exclusive": 7503,
+        "previous_annotation_index": 87,
+        "retained_source_start": 7454,
+        "retained_source_end_exclusive": 7503
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 94,
+        "original_source_start": 7503,
+        "original_source_end_exclusive": 7602,
+        "previous_annotation_index": 88,
+        "retained_source_start": 7503,
+        "retained_source_end_exclusive": 7602
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 95,
+        "original_source_start": 7602,
+        "original_source_end_exclusive": 7700,
+        "previous_annotation_index": 89,
+        "retained_source_start": 7602,
+        "retained_source_end_exclusive": 7700
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 96,
+        "original_source_start": 7700,
+        "original_source_end_exclusive": 7802,
+        "previous_annotation_index": 90,
+        "retained_source_start": 7700,
+        "retained_source_end_exclusive": 7802
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 97,
+        "original_source_start": 7802,
+        "original_source_end_exclusive": 7840,
+        "previous_annotation_index": 91,
+        "retained_source_start": 7802,
+        "retained_source_end_exclusive": 7840
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 98,
+        "original_source_start": 7840,
+        "original_source_end_exclusive": 7945,
+        "previous_annotation_index": 92,
+        "retained_source_start": 7840,
+        "retained_source_end_exclusive": 7945
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 99,
+        "original_source_start": 7945,
+        "original_source_end_exclusive": 8044,
+        "previous_annotation_index": 93,
+        "retained_source_start": 7945,
+        "retained_source_end_exclusive": 8044
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 100,
+        "original_source_start": 8044,
+        "original_source_end_exclusive": 8145,
+        "previous_annotation_index": 94,
+        "retained_source_start": 8044,
+        "retained_source_end_exclusive": 8145
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 101,
+        "original_source_start": 8145,
+        "original_source_end_exclusive": 8238,
+        "previous_annotation_index": 95,
+        "retained_source_start": 8145,
+        "retained_source_end_exclusive": 8238
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 102,
+        "original_source_start": 8238,
+        "original_source_end_exclusive": 8340,
+        "previous_annotation_index": 96,
+        "retained_source_start": 8238,
+        "retained_source_end_exclusive": 8340
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 103,
+        "original_source_start": 8340,
+        "original_source_end_exclusive": 8427,
+        "previous_annotation_index": 97,
+        "retained_source_start": 8340,
+        "retained_source_end_exclusive": 8427
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 104,
+        "original_source_start": 8427,
+        "original_source_end_exclusive": 8520,
+        "previous_annotation_index": 98,
+        "retained_source_start": 8427,
+        "retained_source_end_exclusive": 8520
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 105,
+        "original_source_start": 8520,
+        "original_source_end_exclusive": 8607,
+        "previous_annotation_index": 99,
+        "retained_source_start": 8520,
+        "retained_source_end_exclusive": 8607
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 106,
+        "original_source_start": 8607,
+        "original_source_end_exclusive": 8619,
+        "previous_annotation_index": 100,
+        "retained_source_start": 8607,
+        "retained_source_end_exclusive": 8619
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 107,
+        "original_source_start": 8619,
+        "original_source_end_exclusive": 8720,
+        "previous_annotation_index": 101,
+        "retained_source_start": 8619,
+        "retained_source_end_exclusive": 8720
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 108,
+        "original_source_start": 8720,
+        "original_source_end_exclusive": 8768,
+        "previous_annotation_index": 102,
+        "retained_source_start": 8720,
+        "retained_source_end_exclusive": 8768
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 110,
+        "original_source_start": 8787,
+        "original_source_end_exclusive": 8820,
+        "previous_annotation_index": 104,
+        "retained_source_start": 8787,
+        "retained_source_end_exclusive": 8820
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 111,
+        "original_source_start": 8820,
+        "original_source_end_exclusive": 8837,
+        "previous_annotation_index": 105,
+        "retained_source_start": 8820,
+        "retained_source_end_exclusive": 8837
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 112,
+        "original_source_start": 8837,
+        "original_source_end_exclusive": 8852,
+        "previous_annotation_index": 106,
+        "retained_source_start": 8837,
+        "retained_source_end_exclusive": 8852
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 114,
+        "original_source_start": 8865,
+        "original_source_end_exclusive": 8895,
+        "previous_annotation_index": 108,
+        "retained_source_start": 8865,
+        "retained_source_end_exclusive": 8895
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 118,
+        "original_source_start": 8997,
+        "original_source_end_exclusive": 9092,
+        "previous_annotation_index": 112,
+        "retained_source_start": 8997,
+        "retained_source_end_exclusive": 9092
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 119,
+        "original_source_start": 9092,
+        "original_source_end_exclusive": 9109,
+        "previous_annotation_index": 113,
+        "retained_source_start": 9092,
+        "retained_source_end_exclusive": 9109
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 129,
+        "original_source_start": 9788,
+        "original_source_end_exclusive": 9808,
+        "previous_annotation_index": 123,
+        "retained_source_start": 9788,
+        "retained_source_end_exclusive": 9808
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 135,
+        "original_source_start": 10703,
+        "original_source_end_exclusive": 11172,
+        "previous_annotation_index": 127,
+        "retained_source_start": 10703,
+        "retained_source_end_exclusive": 11172
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 139,
+        "original_source_start": 11372,
+        "original_source_end_exclusive": 11402,
+        "previous_annotation_index": 131,
+        "retained_source_start": 11372,
+        "retained_source_end_exclusive": 11402
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 144,
+        "original_source_start": 11597,
+        "original_source_end_exclusive": 11610,
+        "previous_annotation_index": 136,
+        "retained_source_start": 11597,
+        "retained_source_end_exclusive": 11610
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 150,
+        "original_source_start": 11969,
+        "original_source_end_exclusive": 11992,
+        "previous_annotation_index": 142,
+        "retained_source_start": 11969,
+        "retained_source_end_exclusive": 11992
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 151,
+        "original_source_start": 11992,
+        "original_source_end_exclusive": 12032,
+        "previous_annotation_index": 143,
+        "retained_source_start": 11992,
+        "retained_source_end_exclusive": 12032
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 159,
+        "original_source_start": 13915,
+        "original_source_end_exclusive": 13945,
+        "previous_annotation_index": 150,
+        "retained_source_start": 13915,
+        "retained_source_end_exclusive": 13945
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 165,
+        "original_source_start": 14245,
+        "original_source_end_exclusive": 14340,
+        "previous_annotation_index": 156,
+        "retained_source_start": 14245,
+        "retained_source_end_exclusive": 14340
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 166,
+        "original_source_start": 14340,
+        "original_source_end_exclusive": 14357,
+        "previous_annotation_index": 157,
+        "retained_source_start": 14340,
+        "retained_source_end_exclusive": 14357
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 167,
+        "original_source_start": 14357,
+        "original_source_end_exclusive": 14778,
+        "previous_annotation_index": 158,
+        "retained_source_start": 14357,
+        "retained_source_end_exclusive": 14778
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 171,
+        "original_source_start": 14873,
+        "original_source_end_exclusive": 15080,
+        "previous_annotation_index": 162,
+        "retained_source_start": 14873,
+        "retained_source_end_exclusive": 15080
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 173,
+        "original_source_start": 15102,
+        "original_source_end_exclusive": 15119,
+        "previous_annotation_index": 164,
+        "retained_source_start": 15102,
+        "retained_source_end_exclusive": 15119
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 174,
+        "original_source_start": 15119,
+        "original_source_end_exclusive": 16004,
+        "previous_annotation_index": 165,
+        "retained_source_start": 15119,
+        "retained_source_end_exclusive": 16004
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 175,
+        "original_source_start": 16004,
+        "original_source_end_exclusive": 16763,
+        "previous_annotation_index": 166,
+        "retained_source_start": 16004,
+        "retained_source_end_exclusive": 16763
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 181,
+        "original_source_start": 17011,
+        "original_source_end_exclusive": 17041,
+        "previous_annotation_index": 172,
+        "retained_source_start": 17011,
+        "retained_source_end_exclusive": 17041
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 205,
+        "original_source_start": 20102,
+        "original_source_end_exclusive": 20601,
+        "previous_annotation_index": 193,
+        "retained_source_start": 20102,
+        "retained_source_end_exclusive": 20601
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 206,
+        "original_source_start": 20601,
+        "original_source_end_exclusive": 20721,
+        "previous_annotation_index": 194,
+        "retained_source_start": 20601,
+        "retained_source_end_exclusive": 20721
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 208,
+        "original_source_start": 20767,
+        "original_source_end_exclusive": 20797,
+        "previous_annotation_index": 196,
+        "retained_source_start": 20767,
+        "retained_source_end_exclusive": 20797
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 212,
+        "original_source_start": 20913,
+        "original_source_end_exclusive": 20980,
+        "previous_annotation_index": 200,
+        "retained_source_start": 20913,
+        "retained_source_end_exclusive": 20980
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 214,
+        "original_source_start": 21020,
+        "original_source_end_exclusive": 21061,
+        "previous_annotation_index": 202,
+        "retained_source_start": 21020,
+        "retained_source_end_exclusive": 21061
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 219,
+        "original_source_start": 21226,
+        "original_source_end_exclusive": 21243,
+        "previous_annotation_index": 207,
+        "retained_source_start": 21226,
+        "retained_source_end_exclusive": 21243
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 222,
+        "original_source_start": 21447,
+        "original_source_end_exclusive": 21477,
+        "previous_annotation_index": 209,
+        "retained_source_start": 21447,
+        "retained_source_end_exclusive": 21477
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 230,
+        "original_source_start": 21872,
+        "original_source_end_exclusive": 21883,
+        "previous_annotation_index": 217,
+        "retained_source_start": 21872,
+        "retained_source_end_exclusive": 21883
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 238,
+        "original_source_start": 22492,
+        "original_source_end_exclusive": 22509,
+        "previous_annotation_index": 224,
+        "retained_source_start": 22492,
+        "retained_source_end_exclusive": 22509
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 243,
+        "original_source_start": 22782,
+        "original_source_end_exclusive": 22829,
+        "previous_annotation_index": 229,
+        "retained_source_start": 22782,
+        "retained_source_end_exclusive": 22829
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 253,
+        "original_source_start": 23394,
+        "original_source_end_exclusive": 23424,
+        "previous_annotation_index": 239,
+        "retained_source_start": 23394,
+        "retained_source_end_exclusive": 23424
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 263,
+        "original_source_start": 23860,
+        "original_source_end_exclusive": 23893,
+        "previous_annotation_index": 249,
+        "retained_source_start": 23860,
+        "retained_source_end_exclusive": 23893
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 273,
+        "original_source_start": 24383,
+        "original_source_end_exclusive": 24413,
+        "previous_annotation_index": 259,
+        "retained_source_start": 24383,
+        "retained_source_end_exclusive": 24413
+      },
+      {
+        "source_file": "raw_data_sample2.txt",
+        "line_number": 279,
+        "original_source_start": 24947,
+        "original_source_end_exclusive": 25000,
+        "previous_annotation_index": 265,
+        "retained_source_start": 24947,
+        "retained_source_end_exclusive": 24995
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 3,
+        "original_source_start": 101,
+        "original_source_end_exclusive": 159,
+        "previous_annotation_index": 268,
+        "retained_source_start": 101,
+        "retained_source_end_exclusive": 159
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 6,
+        "original_source_start": 217,
+        "original_source_end_exclusive": 247,
+        "previous_annotation_index": 271,
+        "retained_source_start": 217,
+        "retained_source_end_exclusive": 247
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 10,
+        "original_source_start": 624,
+        "original_source_end_exclusive": 657,
+        "previous_annotation_index": 275,
+        "retained_source_start": 624,
+        "retained_source_end_exclusive": 657
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 11,
+        "original_source_start": 657,
+        "original_source_end_exclusive": 674,
+        "previous_annotation_index": 276,
+        "retained_source_start": 657,
+        "retained_source_end_exclusive": 674
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 16,
+        "original_source_start": 1795,
+        "original_source_end_exclusive": 1825,
+        "previous_annotation_index": 280,
+        "retained_source_start": 1795,
+        "retained_source_end_exclusive": 1825
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 23,
+        "original_source_start": 2384,
+        "original_source_end_exclusive": 2414,
+        "previous_annotation_index": 287,
+        "retained_source_start": 2384,
+        "retained_source_end_exclusive": 2414
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 31,
+        "original_source_start": 2794,
+        "original_source_end_exclusive": 2811,
+        "previous_annotation_index": 295,
+        "retained_source_start": 2794,
+        "retained_source_end_exclusive": 2811
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 53,
+        "original_source_start": 4610,
+        "original_source_end_exclusive": 4640,
+        "previous_annotation_index": 317,
+        "retained_source_start": 4610,
+        "retained_source_end_exclusive": 4640
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 61,
+        "original_source_start": 5017,
+        "original_source_end_exclusive": 5104,
+        "previous_annotation_index": 324,
+        "retained_source_start": 5017,
+        "retained_source_end_exclusive": 5104
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 62,
+        "original_source_start": 5104,
+        "original_source_end_exclusive": 5110,
+        "previous_annotation_index": 325,
+        "retained_source_start": 5104,
+        "retained_source_end_exclusive": 5110
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 68,
+        "original_source_start": 5401,
+        "original_source_end_exclusive": 5434,
+        "previous_annotation_index": 331,
+        "retained_source_start": 5401,
+        "retained_source_end_exclusive": 5434
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 69,
+        "original_source_start": 5434,
+        "original_source_end_exclusive": 5485,
+        "previous_annotation_index": 332,
+        "retained_source_start": 5434,
+        "retained_source_end_exclusive": 5485
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 75,
+        "original_source_start": 5733,
+        "original_source_end_exclusive": 5763,
+        "previous_annotation_index": 338,
+        "retained_source_start": 5733,
+        "retained_source_end_exclusive": 5763
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 85,
+        "original_source_start": 6161,
+        "original_source_end_exclusive": 6184,
+        "previous_annotation_index": 348,
+        "retained_source_start": 6161,
+        "retained_source_end_exclusive": 6184
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 90,
+        "original_source_start": 6350,
+        "original_source_end_exclusive": 6367,
+        "previous_annotation_index": 353,
+        "retained_source_start": 6350,
+        "retained_source_end_exclusive": 6367
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 91,
+        "original_source_start": 6367,
+        "original_source_end_exclusive": 6400,
+        "previous_annotation_index": 354,
+        "retained_source_start": 6367,
+        "retained_source_end_exclusive": 6400
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 92,
+        "original_source_start": 6400,
+        "original_source_end_exclusive": 6504,
+        "previous_annotation_index": 355,
+        "retained_source_start": 6400,
+        "retained_source_end_exclusive": 6504
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 93,
+        "original_source_start": 6504,
+        "original_source_end_exclusive": 6524,
+        "previous_annotation_index": 356,
+        "retained_source_start": 6504,
+        "retained_source_end_exclusive": 6524
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 94,
+        "original_source_start": 6524,
+        "original_source_end_exclusive": 6543,
+        "previous_annotation_index": 357,
+        "retained_source_start": 6524,
+        "retained_source_end_exclusive": 6543
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 101,
+        "original_source_start": 6858,
+        "original_source_end_exclusive": 6878,
+        "previous_annotation_index": 364,
+        "retained_source_start": 6858,
+        "retained_source_end_exclusive": 6878
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 106,
+        "original_source_start": 7042,
+        "original_source_end_exclusive": 7072,
+        "previous_annotation_index": 369,
+        "retained_source_start": 7042,
+        "retained_source_end_exclusive": 7072
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 133,
+        "original_source_start": 8123,
+        "original_source_end_exclusive": 8168,
+        "previous_annotation_index": 396,
+        "retained_source_start": 8123,
+        "retained_source_end_exclusive": 8168
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 134,
+        "original_source_start": 8168,
+        "original_source_end_exclusive": 8213,
+        "previous_annotation_index": 397,
+        "retained_source_start": 8168,
+        "retained_source_end_exclusive": 8213
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 135,
+        "original_source_start": 8213,
+        "original_source_end_exclusive": 8258,
+        "previous_annotation_index": 398,
+        "retained_source_start": 8213,
+        "retained_source_end_exclusive": 8258
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 147,
+        "original_source_start": 8657,
+        "original_source_end_exclusive": 8687,
+        "previous_annotation_index": 410,
+        "retained_source_start": 8657,
+        "retained_source_end_exclusive": 8687
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 157,
+        "original_source_start": 9075,
+        "original_source_end_exclusive": 9104,
+        "previous_annotation_index": 420,
+        "retained_source_start": 9075,
+        "retained_source_end_exclusive": 9104
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 161,
+        "original_source_start": 9579,
+        "original_source_end_exclusive": 9609,
+        "previous_annotation_index": 424,
+        "retained_source_start": 9579,
+        "retained_source_end_exclusive": 9609
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 167,
+        "original_source_start": 9783,
+        "original_source_end_exclusive": 9816,
+        "previous_annotation_index": 430,
+        "retained_source_start": 9783,
+        "retained_source_end_exclusive": 9816
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 168,
+        "original_source_start": 9816,
+        "original_source_end_exclusive": 9843,
+        "previous_annotation_index": 431,
+        "retained_source_start": 9816,
+        "retained_source_end_exclusive": 9843
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 198,
+        "original_source_start": 11033,
+        "original_source_end_exclusive": 11063,
+        "previous_annotation_index": 461,
+        "retained_source_start": 11033,
+        "retained_source_end_exclusive": 11063
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 208,
+        "original_source_start": 11398,
+        "original_source_end_exclusive": 11428,
+        "previous_annotation_index": 471,
+        "retained_source_start": 11398,
+        "retained_source_end_exclusive": 11428
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 220,
+        "original_source_start": 12006,
+        "original_source_end_exclusive": 12049,
+        "previous_annotation_index": 483,
+        "retained_source_start": 12006,
+        "retained_source_end_exclusive": 12049
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 224,
+        "original_source_start": 12270,
+        "original_source_end_exclusive": 12716,
+        "previous_annotation_index": 487,
+        "retained_source_start": 12270,
+        "retained_source_end_exclusive": 12716
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 230,
+        "original_source_start": 12832,
+        "original_source_end_exclusive": 12862,
+        "previous_annotation_index": 493,
+        "retained_source_start": 12832,
+        "retained_source_end_exclusive": 12862
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 233,
+        "original_source_start": 12959,
+        "original_source_end_exclusive": 12976,
+        "previous_annotation_index": 496,
+        "retained_source_start": 12959,
+        "retained_source_end_exclusive": 12976
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 234,
+        "original_source_start": 12976,
+        "original_source_end_exclusive": 13005,
+        "previous_annotation_index": 497,
+        "retained_source_start": 12976,
+        "retained_source_end_exclusive": 13005
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 237,
+        "original_source_start": 13068,
+        "original_source_end_exclusive": 13103,
+        "previous_annotation_index": 500,
+        "retained_source_start": 13068,
+        "retained_source_end_exclusive": 13103
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 238,
+        "original_source_start": 13103,
+        "original_source_end_exclusive": 13138,
+        "previous_annotation_index": 501,
+        "retained_source_start": 13103,
+        "retained_source_end_exclusive": 13138
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 240,
+        "original_source_start": 13176,
+        "original_source_end_exclusive": 13211,
+        "previous_annotation_index": 503,
+        "retained_source_start": 13176,
+        "retained_source_end_exclusive": 13211
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 241,
+        "original_source_start": 13211,
+        "original_source_end_exclusive": 13246,
+        "previous_annotation_index": 504,
+        "retained_source_start": 13211,
+        "retained_source_end_exclusive": 13246
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 242,
+        "original_source_start": 13246,
+        "original_source_end_exclusive": 13282,
+        "previous_annotation_index": 505,
+        "retained_source_start": 13246,
+        "retained_source_end_exclusive": 13282
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 243,
+        "original_source_start": 13282,
+        "original_source_end_exclusive": 13317,
+        "previous_annotation_index": 506,
+        "retained_source_start": 13282,
+        "retained_source_end_exclusive": 13317
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 247,
+        "original_source_start": 13431,
+        "original_source_end_exclusive": 13466,
+        "previous_annotation_index": 510,
+        "retained_source_start": 13431,
+        "retained_source_end_exclusive": 13466
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 248,
+        "original_source_start": 13466,
+        "original_source_end_exclusive": 13501,
+        "previous_annotation_index": 511,
+        "retained_source_start": 13466,
+        "retained_source_end_exclusive": 13501
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 249,
+        "original_source_start": 13501,
+        "original_source_end_exclusive": 13536,
+        "previous_annotation_index": 512,
+        "retained_source_start": 13501,
+        "retained_source_end_exclusive": 13536
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 252,
+        "original_source_start": 13570,
+        "original_source_end_exclusive": 13600,
+        "previous_annotation_index": 515,
+        "retained_source_start": 13570,
+        "retained_source_end_exclusive": 13600
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 265,
+        "original_source_start": 14327,
+        "original_source_end_exclusive": 14353,
+        "previous_annotation_index": 528,
+        "retained_source_start": 14327,
+        "retained_source_end_exclusive": 14353
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 266,
+        "original_source_start": 14353,
+        "original_source_end_exclusive": 14370,
+        "previous_annotation_index": 529,
+        "retained_source_start": 14353,
+        "retained_source_end_exclusive": 14370
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 267,
+        "original_source_start": 14370,
+        "original_source_end_exclusive": 14425,
+        "previous_annotation_index": 530,
+        "retained_source_start": 14370,
+        "retained_source_end_exclusive": 14425
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 268,
+        "original_source_start": 14425,
+        "original_source_end_exclusive": 14471,
+        "previous_annotation_index": 531,
+        "retained_source_start": 14425,
+        "retained_source_end_exclusive": 14471
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 271,
+        "original_source_start": 14564,
+        "original_source_end_exclusive": 14599,
+        "previous_annotation_index": 534,
+        "retained_source_start": 14564,
+        "retained_source_end_exclusive": 14599
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 275,
+        "original_source_start": 15615,
+        "original_source_end_exclusive": 15645,
+        "previous_annotation_index": 536,
+        "retained_source_start": 15615,
+        "retained_source_end_exclusive": 15645
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 296,
+        "original_source_start": 18947,
+        "original_source_end_exclusive": 18977,
+        "previous_annotation_index": 552,
+        "retained_source_start": 18947,
+        "retained_source_end_exclusive": 18977
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 297,
+        "original_source_start": 18977,
+        "original_source_end_exclusive": 19225,
+        "previous_annotation_index": 553,
+        "retained_source_start": 18977,
+        "retained_source_end_exclusive": 19225
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 299,
+        "original_source_start": 19555,
+        "original_source_end_exclusive": 19695,
+        "previous_annotation_index": 555,
+        "retained_source_start": 19555,
+        "retained_source_end_exclusive": 19695
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 301,
+        "original_source_start": 19702,
+        "original_source_end_exclusive": 20250,
+        "previous_annotation_index": 557,
+        "retained_source_start": 19702,
+        "retained_source_end_exclusive": 20250
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 308,
+        "original_source_start": 20445,
+        "original_source_end_exclusive": 20475,
+        "previous_annotation_index": 564,
+        "retained_source_start": 20445,
+        "retained_source_end_exclusive": 20475
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 312,
+        "original_source_start": 20621,
+        "original_source_end_exclusive": 20692,
+        "previous_annotation_index": 568,
+        "retained_source_start": 20621,
+        "retained_source_end_exclusive": 20692
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 313,
+        "original_source_start": 20692,
+        "original_source_end_exclusive": 20846,
+        "previous_annotation_index": 569,
+        "retained_source_start": 20692,
+        "retained_source_end_exclusive": 20846
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 315,
+        "original_source_start": 20920,
+        "original_source_end_exclusive": 21019,
+        "previous_annotation_index": 571,
+        "retained_source_start": 20920,
+        "retained_source_end_exclusive": 21019
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 335,
+        "original_source_start": 22948,
+        "original_source_end_exclusive": 22984,
+        "previous_annotation_index": 591,
+        "retained_source_start": 22948,
+        "retained_source_end_exclusive": 22984
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 336,
+        "original_source_start": 22984,
+        "original_source_end_exclusive": 23020,
+        "previous_annotation_index": 592,
+        "retained_source_start": 22984,
+        "retained_source_end_exclusive": 23020
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 337,
+        "original_source_start": 23020,
+        "original_source_end_exclusive": 23056,
+        "previous_annotation_index": 593,
+        "retained_source_start": 23020,
+        "retained_source_end_exclusive": 23056
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 338,
+        "original_source_start": 23056,
+        "original_source_end_exclusive": 23092,
+        "previous_annotation_index": 594,
+        "retained_source_start": 23056,
+        "retained_source_end_exclusive": 23092
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 339,
+        "original_source_start": 23092,
+        "original_source_end_exclusive": 23128,
+        "previous_annotation_index": 595,
+        "retained_source_start": 23092,
+        "retained_source_end_exclusive": 23128
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 340,
+        "original_source_start": 23128,
+        "original_source_end_exclusive": 23164,
+        "previous_annotation_index": 596,
+        "retained_source_start": 23128,
+        "retained_source_end_exclusive": 23164
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 342,
+        "original_source_start": 23203,
+        "original_source_end_exclusive": 23233,
+        "previous_annotation_index": 598,
+        "retained_source_start": 23203,
+        "retained_source_end_exclusive": 23233
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 346,
+        "original_source_start": 23596,
+        "original_source_end_exclusive": 24114,
+        "previous_annotation_index": 602,
+        "retained_source_start": 23596,
+        "retained_source_end_exclusive": 24114
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 354,
+        "original_source_start": 24852,
+        "original_source_end_exclusive": 24891,
+        "previous_annotation_index": 609,
+        "retained_source_start": 24852,
+        "retained_source_end_exclusive": 24891
+      },
+      {
+        "source_file": "raw_data_sample3.txt",
+        "line_number": 355,
+        "original_source_start": 24891,
+        "original_source_end_exclusive": 24917,
+        "previous_annotation_index": 610,
+        "retained_source_start": 24891,
+        "retained_source_end_exclusive": 24917
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 4,
+        "original_source_start": 76,
+        "original_source_end_exclusive": 110,
+        "previous_annotation_index": 618,
+        "retained_source_start": 76,
+        "retained_source_end_exclusive": 110
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 9,
+        "original_source_start": 548,
+        "original_source_end_exclusive": 578,
+        "previous_annotation_index": 623,
+        "retained_source_start": 548,
+        "retained_source_end_exclusive": 578
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 17,
+        "original_source_start": 928,
+        "original_source_end_exclusive": 1075,
+        "previous_annotation_index": 631,
+        "retained_source_start": 928,
+        "retained_source_end_exclusive": 1075
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 23,
+        "original_source_start": 1630,
+        "original_source_end_exclusive": 1669,
+        "previous_annotation_index": 636,
+        "retained_source_start": 1630,
+        "retained_source_end_exclusive": 1669
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 24,
+        "original_source_start": 1669,
+        "original_source_end_exclusive": 1708,
+        "previous_annotation_index": 637,
+        "retained_source_start": 1669,
+        "retained_source_end_exclusive": 1708
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 31,
+        "original_source_start": 2000,
+        "original_source_end_exclusive": 2030,
+        "previous_annotation_index": 644,
+        "retained_source_start": 2000,
+        "retained_source_end_exclusive": 2030
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 39,
+        "original_source_start": 2528,
+        "original_source_end_exclusive": 2603,
+        "previous_annotation_index": 652,
+        "retained_source_start": 2528,
+        "retained_source_end_exclusive": 2603
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 58,
+        "original_source_start": 6527,
+        "original_source_end_exclusive": 6557,
+        "previous_annotation_index": 670,
+        "retained_source_start": 6527,
+        "retained_source_end_exclusive": 6557
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 63,
+        "original_source_start": 6783,
+        "original_source_end_exclusive": 7307,
+        "previous_annotation_index": 675,
+        "retained_source_start": 6783,
+        "retained_source_end_exclusive": 7307
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 67,
+        "original_source_start": 7904,
+        "original_source_end_exclusive": 7921,
+        "previous_annotation_index": 679,
+        "retained_source_start": 7904,
+        "retained_source_end_exclusive": 7921
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 72,
+        "original_source_start": 8806,
+        "original_source_end_exclusive": 8836,
+        "previous_annotation_index": 684,
+        "retained_source_start": 8806,
+        "retained_source_end_exclusive": 8836
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 78,
+        "original_source_start": 9025,
+        "original_source_end_exclusive": 9074,
+        "previous_annotation_index": 690,
+        "retained_source_start": 9025,
+        "retained_source_end_exclusive": 9074
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 81,
+        "original_source_start": 9178,
+        "original_source_end_exclusive": 9195,
+        "previous_annotation_index": 693,
+        "retained_source_start": 9178,
+        "retained_source_end_exclusive": 9195
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 83,
+        "original_source_start": 9271,
+        "original_source_end_exclusive": 9511,
+        "previous_annotation_index": 695,
+        "retained_source_start": 9271,
+        "retained_source_end_exclusive": 9511
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 87,
+        "original_source_start": 9828,
+        "original_source_end_exclusive": 9858,
+        "previous_annotation_index": 699,
+        "retained_source_start": 9828,
+        "retained_source_end_exclusive": 9858
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 90,
+        "original_source_start": 9899,
+        "original_source_end_exclusive": 9928,
+        "previous_annotation_index": 702,
+        "retained_source_start": 9899,
+        "retained_source_end_exclusive": 9928
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 94,
+        "original_source_start": 10127,
+        "original_source_end_exclusive": 10148,
+        "previous_annotation_index": 705,
+        "retained_source_start": 10127,
+        "retained_source_end_exclusive": 10148
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 95,
+        "original_source_start": 10148,
+        "original_source_end_exclusive": 10258,
+        "previous_annotation_index": 706,
+        "retained_source_start": 10148,
+        "retained_source_end_exclusive": 10258
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 103,
+        "original_source_start": 10591,
+        "original_source_end_exclusive": 10956,
+        "previous_annotation_index": 712,
+        "retained_source_start": 10591,
+        "retained_source_end_exclusive": 10956
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 105,
+        "original_source_start": 11341,
+        "original_source_end_exclusive": 11359,
+        "previous_annotation_index": 714,
+        "retained_source_start": 11341,
+        "retained_source_end_exclusive": 11359
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 106,
+        "original_source_start": 11359,
+        "original_source_end_exclusive": 11376,
+        "previous_annotation_index": 715,
+        "retained_source_start": 11359,
+        "retained_source_end_exclusive": 11376
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 107,
+        "original_source_start": 11376,
+        "original_source_end_exclusive": 11450,
+        "previous_annotation_index": 716,
+        "retained_source_start": 11376,
+        "retained_source_end_exclusive": 11450
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 108,
+        "original_source_start": 11450,
+        "original_source_end_exclusive": 11515,
+        "previous_annotation_index": 717,
+        "retained_source_start": 11450,
+        "retained_source_end_exclusive": 11515
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 110,
+        "original_source_start": 11940,
+        "original_source_end_exclusive": 11985,
+        "previous_annotation_index": 719,
+        "retained_source_start": 11940,
+        "retained_source_end_exclusive": 11985
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 112,
+        "original_source_start": 11992,
+        "original_source_end_exclusive": 12025,
+        "previous_annotation_index": 721,
+        "retained_source_start": 11992,
+        "retained_source_end_exclusive": 12025
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 113,
+        "original_source_start": 12025,
+        "original_source_end_exclusive": 12046,
+        "previous_annotation_index": 722,
+        "retained_source_start": 12025,
+        "retained_source_end_exclusive": 12046
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 114,
+        "original_source_start": 12046,
+        "original_source_end_exclusive": 12147,
+        "previous_annotation_index": 723,
+        "retained_source_start": 12046,
+        "retained_source_end_exclusive": 12147
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 120,
+        "original_source_start": 12378,
+        "original_source_end_exclusive": 12408,
+        "previous_annotation_index": 729,
+        "retained_source_start": 12378,
+        "retained_source_end_exclusive": 12408
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 127,
+        "original_source_start": 12736,
+        "original_source_end_exclusive": 12753,
+        "previous_annotation_index": 736,
+        "retained_source_start": 12736,
+        "retained_source_end_exclusive": 12753
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 143,
+        "original_source_start": 14749,
+        "original_source_end_exclusive": 14779,
+        "previous_annotation_index": 752,
+        "retained_source_start": 14749,
+        "retained_source_end_exclusive": 14779
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 145,
+        "original_source_start": 14816,
+        "original_source_end_exclusive": 14859,
+        "previous_annotation_index": 754,
+        "retained_source_start": 14816,
+        "retained_source_end_exclusive": 14859
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 149,
+        "original_source_start": 14991,
+        "original_source_end_exclusive": 15053,
+        "previous_annotation_index": 757,
+        "retained_source_start": 14991,
+        "retained_source_end_exclusive": 15053
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 150,
+        "original_source_start": 15053,
+        "original_source_end_exclusive": 15115,
+        "previous_annotation_index": 758,
+        "retained_source_start": 15053,
+        "retained_source_end_exclusive": 15115
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 153,
+        "original_source_start": 15141,
+        "original_source_end_exclusive": 15171,
+        "previous_annotation_index": 761,
+        "retained_source_start": 15141,
+        "retained_source_end_exclusive": 15171
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 155,
+        "original_source_start": 15259,
+        "original_source_end_exclusive": 15341,
+        "previous_annotation_index": 763,
+        "retained_source_start": 15259,
+        "retained_source_end_exclusive": 15341
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 157,
+        "original_source_start": 15444,
+        "original_source_end_exclusive": 15608,
+        "previous_annotation_index": 765,
+        "retained_source_start": 15444,
+        "retained_source_end_exclusive": 15608
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 161,
+        "original_source_start": 15965,
+        "original_source_end_exclusive": 16343,
+        "previous_annotation_index": 769,
+        "retained_source_start": 15965,
+        "retained_source_end_exclusive": 16343
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 162,
+        "original_source_start": 16343,
+        "original_source_end_exclusive": 17201,
+        "previous_annotation_index": 770,
+        "retained_source_start": 16343,
+        "retained_source_end_exclusive": 17201
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 163,
+        "original_source_start": 17201,
+        "original_source_end_exclusive": 17579,
+        "previous_annotation_index": 771,
+        "retained_source_start": 17201,
+        "retained_source_end_exclusive": 17579
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 164,
+        "original_source_start": 17579,
+        "original_source_end_exclusive": 18437,
+        "previous_annotation_index": 772,
+        "retained_source_start": 17579,
+        "retained_source_end_exclusive": 18437
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 168,
+        "original_source_start": 19386,
+        "original_source_end_exclusive": 19416,
+        "previous_annotation_index": 776,
+        "retained_source_start": 19386,
+        "retained_source_end_exclusive": 19416
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 179,
+        "original_source_start": 19863,
+        "original_source_end_exclusive": 19880,
+        "previous_annotation_index": 786,
+        "retained_source_start": 19863,
+        "retained_source_end_exclusive": 19880
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 184,
+        "original_source_start": 20016,
+        "original_source_end_exclusive": 20046,
+        "previous_annotation_index": 791,
+        "retained_source_start": 20016,
+        "retained_source_end_exclusive": 20046
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 189,
+        "original_source_start": 20255,
+        "original_source_end_exclusive": 20272,
+        "previous_annotation_index": 796,
+        "retained_source_start": 20255,
+        "retained_source_end_exclusive": 20272
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 198,
+        "original_source_start": 20842,
+        "original_source_end_exclusive": 20931,
+        "previous_annotation_index": 805,
+        "retained_source_start": 20842,
+        "retained_source_end_exclusive": 20931
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 203,
+        "original_source_start": 21112,
+        "original_source_end_exclusive": 21142,
+        "previous_annotation_index": 810,
+        "retained_source_start": 21112,
+        "retained_source_end_exclusive": 21142
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 209,
+        "original_source_start": 21548,
+        "original_source_end_exclusive": 21585,
+        "previous_annotation_index": 816,
+        "retained_source_start": 21548,
+        "retained_source_end_exclusive": 21585
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 214,
+        "original_source_start": 22613,
+        "original_source_end_exclusive": 22922,
+        "previous_annotation_index": 821,
+        "retained_source_start": 22613,
+        "retained_source_end_exclusive": 22922
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 216,
+        "original_source_start": 23088,
+        "original_source_end_exclusive": 23522,
+        "previous_annotation_index": 823,
+        "retained_source_start": 23088,
+        "retained_source_end_exclusive": 23522
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 217,
+        "original_source_start": 23522,
+        "original_source_end_exclusive": 23761,
+        "previous_annotation_index": 824,
+        "retained_source_start": 23522,
+        "retained_source_end_exclusive": 23761
+      },
+      {
+        "source_file": "raw_data_sample4.txt",
+        "line_number": 220,
+        "original_source_start": 24162,
+        "original_source_end_exclusive": 24438,
+        "previous_annotation_index": 827,
+        "retained_source_start": 24162,
+        "retained_source_end_exclusive": 24438
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 5,
+        "original_source_start": 179,
+        "original_source_end_exclusive": 209,
+        "previous_annotation_index": 834,
+        "retained_source_start": 179,
+        "retained_source_end_exclusive": 209
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 12,
+        "original_source_start": 589,
+        "original_source_end_exclusive": 616,
+        "previous_annotation_index": 841,
+        "retained_source_start": 589,
+        "retained_source_end_exclusive": 616
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 13,
+        "original_source_start": 616,
+        "original_source_end_exclusive": 642,
+        "previous_annotation_index": 842,
+        "retained_source_start": 616,
+        "retained_source_end_exclusive": 642
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 25,
+        "original_source_start": 2141,
+        "original_source_end_exclusive": 2171,
+        "previous_annotation_index": 854,
+        "retained_source_start": 2141,
+        "retained_source_end_exclusive": 2171
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 29,
+        "original_source_start": 2255,
+        "original_source_end_exclusive": 2308,
+        "previous_annotation_index": 858,
+        "retained_source_start": 2255,
+        "retained_source_end_exclusive": 2308
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 30,
+        "original_source_start": 2308,
+        "original_source_end_exclusive": 2319,
+        "previous_annotation_index": 859,
+        "retained_source_start": 2308,
+        "retained_source_end_exclusive": 2319
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 31,
+        "original_source_start": 2319,
+        "original_source_end_exclusive": 2330,
+        "previous_annotation_index": 860,
+        "retained_source_start": 2319,
+        "retained_source_end_exclusive": 2330
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 33,
+        "original_source_start": 2349,
+        "original_source_end_exclusive": 2379,
+        "previous_annotation_index": 862,
+        "retained_source_start": 2349,
+        "retained_source_end_exclusive": 2379
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 36,
+        "original_source_start": 2510,
+        "original_source_end_exclusive": 2589,
+        "previous_annotation_index": 865,
+        "retained_source_start": 2510,
+        "retained_source_end_exclusive": 2589
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 40,
+        "original_source_start": 2727,
+        "original_source_end_exclusive": 2738,
+        "previous_annotation_index": 869,
+        "retained_source_start": 2727,
+        "retained_source_end_exclusive": 2738
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 41,
+        "original_source_start": 2738,
+        "original_source_end_exclusive": 2768,
+        "previous_annotation_index": 870,
+        "retained_source_start": 2738,
+        "retained_source_end_exclusive": 2768
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 46,
+        "original_source_start": 2930,
+        "original_source_end_exclusive": 2947,
+        "previous_annotation_index": 875,
+        "retained_source_start": 2930,
+        "retained_source_end_exclusive": 2947
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 47,
+        "original_source_start": 2947,
+        "original_source_end_exclusive": 2974,
+        "previous_annotation_index": 876,
+        "retained_source_start": 2947,
+        "retained_source_end_exclusive": 2974
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 51,
+        "original_source_start": 3091,
+        "original_source_end_exclusive": 3130,
+        "previous_annotation_index": 880,
+        "retained_source_start": 3091,
+        "retained_source_end_exclusive": 3130
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 52,
+        "original_source_start": 3130,
+        "original_source_end_exclusive": 3169,
+        "previous_annotation_index": 881,
+        "retained_source_start": 3130,
+        "retained_source_end_exclusive": 3169
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 56,
+        "original_source_start": 3203,
+        "original_source_end_exclusive": 3279,
+        "previous_annotation_index": 885,
+        "retained_source_start": 3203,
+        "retained_source_end_exclusive": 3279
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 61,
+        "original_source_start": 3508,
+        "original_source_end_exclusive": 3538,
+        "previous_annotation_index": 890,
+        "retained_source_start": 3508,
+        "retained_source_end_exclusive": 3538
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 63,
+        "original_source_start": 3557,
+        "original_source_end_exclusive": 3576,
+        "previous_annotation_index": 892,
+        "retained_source_start": 3557,
+        "retained_source_end_exclusive": 3576
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 70,
+        "original_source_start": 3856,
+        "original_source_end_exclusive": 3889,
+        "previous_annotation_index": 899,
+        "retained_source_start": 3856,
+        "retained_source_end_exclusive": 3889
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 74,
+        "original_source_start": 4426,
+        "original_source_end_exclusive": 4577,
+        "previous_annotation_index": 903,
+        "retained_source_start": 4426,
+        "retained_source_end_exclusive": 4577
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 80,
+        "original_source_start": 5226,
+        "original_source_end_exclusive": 5256,
+        "previous_annotation_index": 909,
+        "retained_source_start": 5226,
+        "retained_source_end_exclusive": 5256
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 85,
+        "original_source_start": 5418,
+        "original_source_end_exclusive": 5533,
+        "previous_annotation_index": 914,
+        "retained_source_start": 5418,
+        "retained_source_end_exclusive": 5533
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 87,
+        "original_source_start": 5616,
+        "original_source_end_exclusive": 5651,
+        "previous_annotation_index": 916,
+        "retained_source_start": 5616,
+        "retained_source_end_exclusive": 5651
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 92,
+        "original_source_start": 5858,
+        "original_source_end_exclusive": 6152,
+        "previous_annotation_index": 921,
+        "retained_source_start": 5858,
+        "retained_source_end_exclusive": 6152
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 96,
+        "original_source_start": 6439,
+        "original_source_end_exclusive": 6469,
+        "previous_annotation_index": 925,
+        "retained_source_start": 6439,
+        "retained_source_end_exclusive": 6469
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 100,
+        "original_source_start": 6652,
+        "original_source_end_exclusive": 6669,
+        "previous_annotation_index": 929,
+        "retained_source_start": 6652,
+        "retained_source_end_exclusive": 6669
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 103,
+        "original_source_start": 6711,
+        "original_source_end_exclusive": 6771,
+        "previous_annotation_index": 932,
+        "retained_source_start": 6711,
+        "retained_source_end_exclusive": 6771
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 104,
+        "original_source_start": 6771,
+        "original_source_end_exclusive": 6788,
+        "previous_annotation_index": 933,
+        "retained_source_start": 6771,
+        "retained_source_end_exclusive": 6788
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 112,
+        "original_source_start": 7362,
+        "original_source_end_exclusive": 7388,
+        "previous_annotation_index": 941,
+        "retained_source_start": 7362,
+        "retained_source_end_exclusive": 7388
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 114,
+        "original_source_start": 7730,
+        "original_source_end_exclusive": 8018,
+        "previous_annotation_index": 943,
+        "retained_source_start": 7730,
+        "retained_source_end_exclusive": 8018
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 127,
+        "original_source_start": 9286,
+        "original_source_end_exclusive": 9316,
+        "previous_annotation_index": 956,
+        "retained_source_start": 9286,
+        "retained_source_end_exclusive": 9316
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 131,
+        "original_source_start": 9657,
+        "original_source_end_exclusive": 9668,
+        "previous_annotation_index": 960,
+        "retained_source_start": 9657,
+        "retained_source_end_exclusive": 9668
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 132,
+        "original_source_start": 9668,
+        "original_source_end_exclusive": 9679,
+        "previous_annotation_index": 961,
+        "retained_source_start": 9668,
+        "retained_source_end_exclusive": 9679
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 134,
+        "original_source_start": 9698,
+        "original_source_end_exclusive": 9728,
+        "previous_annotation_index": 963,
+        "retained_source_start": 9698,
+        "retained_source_end_exclusive": 9728
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 141,
+        "original_source_start": 9941,
+        "original_source_end_exclusive": 9971,
+        "previous_annotation_index": 970,
+        "retained_source_start": 9941,
+        "retained_source_end_exclusive": 9971
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 162,
+        "original_source_start": 10989,
+        "original_source_end_exclusive": 11002,
+        "previous_annotation_index": 991,
+        "retained_source_start": 10989,
+        "retained_source_end_exclusive": 11002
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 164,
+        "original_source_start": 11021,
+        "original_source_end_exclusive": 11042,
+        "previous_annotation_index": 993,
+        "retained_source_start": 11021,
+        "retained_source_end_exclusive": 11042
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 167,
+        "original_source_start": 11072,
+        "original_source_end_exclusive": 11089,
+        "previous_annotation_index": 996,
+        "retained_source_start": 11072,
+        "retained_source_end_exclusive": 11089
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 171,
+        "original_source_start": 11122,
+        "original_source_end_exclusive": 11168,
+        "previous_annotation_index": 1000,
+        "retained_source_start": 11122,
+        "retained_source_end_exclusive": 11168
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 182,
+        "original_source_start": 11560,
+        "original_source_end_exclusive": 11590,
+        "previous_annotation_index": 1010,
+        "retained_source_start": 11560,
+        "retained_source_end_exclusive": 11590
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 187,
+        "original_source_start": 11752,
+        "original_source_end_exclusive": 11792,
+        "previous_annotation_index": 1015,
+        "retained_source_start": 11752,
+        "retained_source_end_exclusive": 11792
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 188,
+        "original_source_start": 11792,
+        "original_source_end_exclusive": 11825,
+        "previous_annotation_index": 1016,
+        "retained_source_start": 11792,
+        "retained_source_end_exclusive": 11825
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 189,
+        "original_source_start": 11825,
+        "original_source_end_exclusive": 11858,
+        "previous_annotation_index": 1017,
+        "retained_source_start": 11825,
+        "retained_source_end_exclusive": 11858
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 190,
+        "original_source_start": 11858,
+        "original_source_end_exclusive": 11891,
+        "previous_annotation_index": 1018,
+        "retained_source_start": 11858,
+        "retained_source_end_exclusive": 11891
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 191,
+        "original_source_start": 11891,
+        "original_source_end_exclusive": 11924,
+        "previous_annotation_index": 1019,
+        "retained_source_start": 11891,
+        "retained_source_end_exclusive": 11924
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 192,
+        "original_source_start": 11924,
+        "original_source_end_exclusive": 11957,
+        "previous_annotation_index": 1020,
+        "retained_source_start": 11924,
+        "retained_source_end_exclusive": 11957
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 193,
+        "original_source_start": 11957,
+        "original_source_end_exclusive": 11974,
+        "previous_annotation_index": 1021,
+        "retained_source_start": 11957,
+        "retained_source_end_exclusive": 11974
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 200,
+        "original_source_start": 12078,
+        "original_source_end_exclusive": 12154,
+        "previous_annotation_index": 1025,
+        "retained_source_start": 12078,
+        "retained_source_end_exclusive": 12154
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 202,
+        "original_source_start": 12222,
+        "original_source_end_exclusive": 12306,
+        "previous_annotation_index": 1027,
+        "retained_source_start": 12222,
+        "retained_source_end_exclusive": 12306
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 210,
+        "original_source_start": 13313,
+        "original_source_end_exclusive": 13425,
+        "previous_annotation_index": 1034,
+        "retained_source_start": 13313,
+        "retained_source_end_exclusive": 13425
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 212,
+        "original_source_start": 13766,
+        "original_source_end_exclusive": 13821,
+        "previous_annotation_index": 1036,
+        "retained_source_start": 13766,
+        "retained_source_end_exclusive": 13821
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 218,
+        "original_source_start": 14083,
+        "original_source_end_exclusive": 14100,
+        "previous_annotation_index": 1042,
+        "retained_source_start": 14083,
+        "retained_source_end_exclusive": 14100
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 221,
+        "original_source_start": 14224,
+        "original_source_end_exclusive": 14254,
+        "previous_annotation_index": 1045,
+        "retained_source_start": 14224,
+        "retained_source_end_exclusive": 14254
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 235,
+        "original_source_start": 14896,
+        "original_source_end_exclusive": 15162,
+        "previous_annotation_index": 1058,
+        "retained_source_start": 14896,
+        "retained_source_end_exclusive": 15162
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 236,
+        "original_source_start": 15162,
+        "original_source_end_exclusive": 15482,
+        "previous_annotation_index": 1059,
+        "retained_source_start": 15162,
+        "retained_source_end_exclusive": 15482
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 245,
+        "original_source_start": 16323,
+        "original_source_end_exclusive": 16353,
+        "previous_annotation_index": 1066,
+        "retained_source_start": 16323,
+        "retained_source_end_exclusive": 16353
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 249,
+        "original_source_start": 16467,
+        "original_source_end_exclusive": 16482,
+        "previous_annotation_index": 1070,
+        "retained_source_start": 16467,
+        "retained_source_end_exclusive": 16482
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 255,
+        "original_source_start": 17000,
+        "original_source_end_exclusive": 17030,
+        "previous_annotation_index": 1076,
+        "retained_source_start": 17000,
+        "retained_source_end_exclusive": 17030
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 259,
+        "original_source_start": 17352,
+        "original_source_end_exclusive": 17369,
+        "previous_annotation_index": 1080,
+        "retained_source_start": 17352,
+        "retained_source_end_exclusive": 17369
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 260,
+        "original_source_start": 17369,
+        "original_source_end_exclusive": 17384,
+        "previous_annotation_index": 1081,
+        "retained_source_start": 17369,
+        "retained_source_end_exclusive": 17384
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 266,
+        "original_source_start": 17906,
+        "original_source_end_exclusive": 17936,
+        "previous_annotation_index": 1087,
+        "retained_source_start": 17906,
+        "retained_source_end_exclusive": 17936
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 268,
+        "original_source_start": 17955,
+        "original_source_end_exclusive": 17966,
+        "previous_annotation_index": 1089,
+        "retained_source_start": 17955,
+        "retained_source_end_exclusive": 17966
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 269,
+        "original_source_start": 17966,
+        "original_source_end_exclusive": 17977,
+        "previous_annotation_index": 1090,
+        "retained_source_start": 17966,
+        "retained_source_end_exclusive": 17977
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 274,
+        "original_source_start": 18151,
+        "original_source_end_exclusive": 18233,
+        "previous_annotation_index": 1095,
+        "retained_source_start": 18151,
+        "retained_source_end_exclusive": 18233
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 276,
+        "original_source_start": 18281,
+        "original_source_end_exclusive": 18298,
+        "previous_annotation_index": 1097,
+        "retained_source_start": 18281,
+        "retained_source_end_exclusive": 18298
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 277,
+        "original_source_start": 18298,
+        "original_source_end_exclusive": 18315,
+        "previous_annotation_index": 1098,
+        "retained_source_start": 18298,
+        "retained_source_end_exclusive": 18315
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 280,
+        "original_source_start": 18411,
+        "original_source_end_exclusive": 18428,
+        "previous_annotation_index": 1101,
+        "retained_source_start": 18411,
+        "retained_source_end_exclusive": 18428
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 288,
+        "original_source_start": 18555,
+        "original_source_end_exclusive": 18585,
+        "previous_annotation_index": 1109,
+        "retained_source_start": 18555,
+        "retained_source_end_exclusive": 18585
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 295,
+        "original_source_start": 18832,
+        "original_source_end_exclusive": 18862,
+        "previous_annotation_index": 1116,
+        "retained_source_start": 18832,
+        "retained_source_end_exclusive": 18862
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 300,
+        "original_source_start": 19024,
+        "original_source_end_exclusive": 19042,
+        "previous_annotation_index": 1121,
+        "retained_source_start": 19024,
+        "retained_source_end_exclusive": 19042
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 301,
+        "original_source_start": 19042,
+        "original_source_end_exclusive": 19062,
+        "previous_annotation_index": 1122,
+        "retained_source_start": 19042,
+        "retained_source_end_exclusive": 19062
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 302,
+        "original_source_start": 19062,
+        "original_source_end_exclusive": 19085,
+        "previous_annotation_index": 1123,
+        "retained_source_start": 19062,
+        "retained_source_end_exclusive": 19085
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 311,
+        "original_source_start": 21282,
+        "original_source_end_exclusive": 21312,
+        "previous_annotation_index": 1132,
+        "retained_source_start": 21282,
+        "retained_source_end_exclusive": 21312
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 324,
+        "original_source_start": 22116,
+        "original_source_end_exclusive": 22133,
+        "previous_annotation_index": 1145,
+        "retained_source_start": 22116,
+        "retained_source_end_exclusive": 22133
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 326,
+        "original_source_start": 22572,
+        "original_source_end_exclusive": 22671,
+        "previous_annotation_index": 1147,
+        "retained_source_start": 22572,
+        "retained_source_end_exclusive": 22671
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 327,
+        "original_source_start": 22671,
+        "original_source_end_exclusive": 22772,
+        "previous_annotation_index": 1148,
+        "retained_source_start": 22671,
+        "retained_source_end_exclusive": 22772
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 329,
+        "original_source_start": 22791,
+        "original_source_end_exclusive": 22821,
+        "previous_annotation_index": 1150,
+        "retained_source_start": 22791,
+        "retained_source_end_exclusive": 22821
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 338,
+        "original_source_start": 23109,
+        "original_source_end_exclusive": 23140,
+        "previous_annotation_index": 1159,
+        "retained_source_start": 23109,
+        "retained_source_end_exclusive": 23140
+      },
+      {
+        "source_file": "raw_data_sample5.txt",
+        "line_number": 352,
+        "original_source_start": 24478,
+        "original_source_end_exclusive": 24508,
+        "previous_annotation_index": 1163,
+        "retained_source_start": 24478,
+        "retained_source_end_exclusive": 24508
+      }
+    ]
+  }
+}

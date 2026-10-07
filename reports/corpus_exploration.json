@@ -1,0 +1,209 @@
+{
+  "scope": "four frozen samples, not the full archive",
+  "rows": [
+    {
+      "sample": "raw_data_sample2.txt",
+      "characters": 25000,
+      "physical_lines": 279,
+      "tokens": 4162,
+      "content_word_tokens": 1868,
+      "content_word_types": 593,
+      "content_word_TTR": 0.31745182012847967,
+      "top_10_content_words": [
+        [
+          "contrato",
+          27
+        ],
+        [
+          "pcap",
+          27
+        ],
+        [
+          "oferta",
+          24
+        ],
+        [
+          "anual",
+          22
+        ],
+        [
+          "ejecución",
+          22
+        ],
+        [
+          "cumplimiento",
+          20
+        ],
+        [
+          "declaración",
+          19
+        ],
+        [
+          "servicios",
+          19
+        ],
+        [
+          "obligaciones",
+          18
+        ],
+        [
+          "importe",
+          18
+        ]
+      ]
+    },
+    {
+      "sample": "raw_data_sample3.txt",
+      "characters": 25000,
+      "physical_lines": 359,
+      "tokens": 4074,
+      "content_word_tokens": 1968,
+      "content_word_types": 708,
+      "content_word_TTR": 0.3597560975609756,
+      "top_10_content_words": [
+        [
+          "pcap",
+          55
+        ],
+        [
+          "oferta",
+          50
+        ],
+        [
+          "cláusula",
+          31
+        ],
+        [
+          "contrato",
+          27
+        ],
+        [
+          "cumplimiento",
+          26
+        ],
+        [
+          "económica",
+          26
+        ],
+        [
+          "precio",
+          26
+        ],
+        [
+          "obligaciones",
+          23
+        ],
+        [
+          "capacidad",
+          20
+        ],
+        [
+          "obrar",
+          19
+        ]
+      ]
+    },
+    {
+      "sample": "raw_data_sample4.txt",
+      "characters": 25000,
+      "physical_lines": 222,
+      "tokens": 4268,
+      "content_word_tokens": 1881,
+      "content_word_types": 703,
+      "content_word_TTR": 0.37373737373737376,
+      "top_10_content_words": [
+        [
+          "contrato",
+          36
+        ],
+        [
+          "pcap",
+          34
+        ],
+        [
+          "oferta",
+          30
+        ],
+        [
+          "anexo",
+          23
+        ],
+        [
+          "anual",
+          21
+        ],
+        [
+          "i",
+          21
+        ],
+        [
+          "importe",
+          18
+        ],
+        [
+          "apartado",
+          18
+        ],
+        [
+          "capacidad",
+          17
+        ],
+        [
+          "declaración",
+          16
+        ]
+      ]
+    },
+    {
+      "sample": "raw_data_sample5.txt",
+      "characters": 25000,
+      "physical_lines": 363,
+      "tokens": 4056,
+      "content_word_tokens": 1894,
+      "content_word_types": 741,
+      "content_word_TTR": 0.39123548046462514,
+      "top_10_content_words": [
+        [
+          "pcap",
+          55
+        ],
+        [
+          "contrato",
+          34
+        ],
+        [
+          "cumplimiento",
+          30
+        ],
+        [
+          "oferta",
+          28
+        ],
+        [
+          "obligaciones",
+          26
+        ],
+        [
+          "capacidad",
+          26
+        ],
+        [
+          "obrar",
+          25
+        ],
+        [
+          "cláusula",
+          22
+        ],
+        [
+          "prohibición",
+          20
+        ],
+        [
+          "contratar",
+          20
+        ]
+      ]
+    }
+  ]
+}

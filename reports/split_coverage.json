@@ -1,0 +1,67 @@
+{
+  "rows": [
+    {
+      "label": "ORG",
+      "train": 59,
+      "evaluation": 30,
+      "test": 29,
+      "independent_groups": 36
+    },
+    {
+      "label": "PER",
+      "train": 0,
+      "evaluation": 0,
+      "test": 0,
+      "independent_groups": 0
+    },
+    {
+      "label": "LOC",
+      "train": 7,
+      "evaluation": 4,
+      "test": 5,
+      "independent_groups": 8
+    },
+    {
+      "label": "DATE",
+      "train": 11,
+      "evaluation": 5,
+      "test": 5,
+      "independent_groups": 11
+    },
+    {
+      "label": "MISC",
+      "train": 203,
+      "evaluation": 102,
+      "test": 102,
+      "independent_groups": 218
+    },
+    {
+      "label": "LAW",
+      "train": 13,
+      "evaluation": 6,
+      "test": 8,
+      "independent_groups": 15
+    },
+    {
+      "label": "EMAIL",
+      "train": 2,
+      "evaluation": 1,
+      "test": 1,
+      "independent_groups": 3
+    },
+    {
+      "label": "SCHEDULE",
+      "train": 5,
+      "evaluation": 2,
+      "test": 2,
+      "independent_groups": 6
+    },
+    {
+      "label": "EVENT",
+      "train": 3,
+      "evaluation": 0,
+      "test": 0,
+      "independent_groups": 1
+    }
+  ]
+}

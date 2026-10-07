@@ -1,0 +1,15 @@
+{
+  "records": 1165,
+  "entity_spans": 605,
+  "records_without_entities": 742,
+  "annotation_sha256": "5d0196d2eaebcc9b4d8178b61a288eb86f6114c9e2bec2c04f9f28c829ada989",
+  "source_substrings_verified": true,
+  "strict_token_alignment_verified": true,
+  "exclusion_counts": {
+    "non_spanish_record": 27,
+    "peninsular_time_reference": 8,
+    "blank_record": 19,
+    "unusable_truncated_record": 4
+  },
+  "guideline": "ANER Annotation Guidelines version 2.1"
+}
