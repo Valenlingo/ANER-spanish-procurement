@@ -1,0 +1,5 @@
+spacy==3.8.16
+requests
+beautifulsoup4
+lxml
+pandas

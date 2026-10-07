@@ -1,0 +1,7 @@
+data/downloaded/
+data/reacquired/
+models/**/model-best/
+__pycache__/
+.ipynb_checkpoints/
+*.spacy
+*.zip
